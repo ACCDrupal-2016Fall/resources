@@ -1,0 +1,21 @@
+{
+  "variables": {
+    "glossary": {
+      "drupal": "Drupal",
+      "drupal_7": "Drupal 7",
+      "drupal_8": "Drupal 8",
+      "vcs": "Version Control System",
+      "git": "Git"
+    },
+    "chapters": {
+      "come_for_the_code": "Come For The Code"
+    },
+    "sections": {
+      "table_of_contents": "Table of Contents"
+      },
+    "authors": {
+      "name": "Charles Leverington",
+      "name": "Fito Kahn"
+    }
+  }
+}
