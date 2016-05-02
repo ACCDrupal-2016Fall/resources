@@ -8,10 +8,16 @@
       "git": "Git"
     },
     "chapters": {
-      "come_for_the_code": "Come For The Code"
+      "foreword": "Foreword"
     },
     "sections": {
-      "table_of_contents": "Table of Contents"
+      "foreword": {
+        "about_the_book": "About The Book",
+        "about_the_authors": "About The Authors",
+        "foreword_license": "License",
+        "syllabus": "Syllabus",
+        "table_of_contents": "Table of Contents"
+        }
       },
     "authors": {
       "name": "Charles Leverington",
