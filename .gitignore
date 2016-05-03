@@ -1,3 +1,7 @@
+# Ignoring Windows specific files
+desktop.ini
+*/desktop.ini
+
 # Ignoring ideas/resources folder
 ideas/
 
