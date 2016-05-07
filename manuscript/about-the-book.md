@@ -1,4 +1,4 @@
-# {{ book.sections.foreword.about_the_book }}
+# {{ book.sections.foreword.about-the-book }}
 
 ## Modern Drupal 7 Development
 

@@ -1,4 +1,4 @@
-# {{ book.sections.foreword.foreword_license }}
+# {{ book.sections.foreword.foreword-license }}
 
 This book was licened with a xxxxxxx.
 

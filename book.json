@@ -8,15 +8,21 @@
       "git": "Git"
     },
     "chapters": {
-      "foreword": "Foreword"
+      "foreword": "Foreword",
+      "overview": "Introduction"
     },
     "sections": {
       "foreword": {
-        "about_the_book": "About The Book",
-        "about_the_authors": "About The Authors",
-        "foreword_license": "License",
+        "about-the-book": "About The Book",
+        "about-the-authors": "About The Authors",
+        "foreword-license": "License",
         "syllabus": "Syllabus",
-        "table_of_contents": "Table of Contents"
+        "table-of-contents": "Table of Contents"
+        },
+        "overview": {
+          "joining-github": "Registering for a GitHub Account",
+          "joining-drupal-org": "Registering for an account at _Drupal.org",
+          "creating-pantheonio-account": "Registering for an account at _Pantheon.io_"
         }
       },
     "authors": {
