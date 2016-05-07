@@ -6,9 +6,28 @@ The software offered is as varied as the hosting companies. A new user could cho
 
 So why, from all the options, should you choose Drupal?
 
-Acquia, one of the largest Drupal companies in the world, made this https://www.acquia.com/sites/default/files/landing-pages/images/drupal-10-reasons-A4.pdf
+Acquia, one of the largest Drupal companies in the world, put togther great list of ten reasons commonly used by the Drupal Community answering this question. Drupal is:
 
- -- explain what this book can do
+1 A platform for rapid website assembly
+2 Enormously scalable
+3 Freely extensible
+4 Built for social publishing
+5 Open to your branding
+6 Flexible in deployment
+7 Beloved by a thriving development community
+8 Without softare acquisition or licencing costs (aka: it is free to use)
+9 Fanatical about following standards
+10 Proven high in security
+
+It should be noted here that Drupal's fanatical approach to following standards means all standards important to modern web design, development, accessibility, and more.
+
+The most popular themes, for example, all have a heavy focus on maintaining a mobile-first approach, a great User Experience (UI), and creating intuitive User Interfaces (UI). They do this without sacrificing a single iota of Accessibility needs for visual or hearing impaired users or Multilingual language support for non-English speaking users.
+
+With thousands of code contributors making updates, changes, and security fixes to Drupal every day, you can be assured in choosing a well-supported (and well documented) web-application platform for creating your website.
+
+Because Drupal is highly extensible and highly configurable, the best method for learning how to make a website with Drupal is a hands-on learning experience. Multile scenarios, from building a generic blog to creating a fully-featured online store where *you*, the Site Owner, can sell your own products (or services) should be explored to understand the powerful tools at your disposal. This book will teach the reader basic to intermediate Drupal knowledge with screenshots, example code, user-exercises, small quizzes, and meticulous walkthroughs.
+
+By the end of this book, *you*, the Reader, will have created multiple Drupal websites using the most modern methods for efficiency, accessibility, and mobile-ready design.
 
 
 Chapter 1:
@@ -16,3 +35,4 @@ Chapter 1:
     -- Consider joining the Drupal Association
   -- Creating an account at Pantheon.io
   -- Creating an account at GitHub.org
+

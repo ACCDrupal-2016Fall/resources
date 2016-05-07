@@ -1,11 +1,15 @@
 {
   "variables": {
     "glossary": {
+      "accessibility": "Accessibility",
       "drupal": "Drupal",
       "drupal_7": "Drupal 7",
       "drupal_8": "Drupal 8",
+      "git": "Git",
+      "linux": "Linux",
       "vcs": "Version Control System",
-      "git": "Git"
+      "ui": "User Interface",
+      "ux": "User Experience"
     },
     "chapters": {
       "foreword": "Foreword",
@@ -20,9 +24,10 @@
         "table-of-contents": "Table of Contents"
         },
         "overview": {
-          "joining-github": "Registering for a GitHub Account",
+          "creating-pantheonio-account": "Registering for an account at _Pantheon.io_",
+          "creating-github-account": "Registering for a GitHub Account",
           "joining-drupal-org": "Registering for an account at _Drupal.org",
-          "creating-pantheonio-account": "Registering for an account at _Pantheon.io_"
+          "system-requirements": "System Requirements"
         }
       },
     "authors": {

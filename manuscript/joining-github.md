@@ -1,1 +1,0 @@
-# {{ book.sections.overview.joining-github }}
