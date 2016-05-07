@@ -1,4 +1,4 @@
-# {{ book.chapters.overview }}
+# {{ book.chapters.introduction }}
 
 After decades of growth as an industry, there are now many point-and-click web-based applications that remove the need for some (any in many cases *any*) HTML knowledge, CSS knowledge, Linux, servers, or databases. Hosting companies even provide the installation using a model called Software as a Service (SasS), where the hosting company not only hosts, but installs, configures, and updates all of the related software as well.
 
@@ -27,8 +27,9 @@ With thousands of code contributors making updates, changes, and security fixes 
 
 Because Drupal is highly extensible and highly configurable, the best method for learning how to make a website with Drupal is a hands-on learning experience. Multile scenarios, from building a generic blog to creating a fully-featured online store where *you*, the Site Owner, can sell your own products (or services) should be explored to understand the powerful tools at your disposal. This book will teach the reader basic to intermediate Drupal knowledge with screenshots, example code, user-exercises, small quizzes, and meticulous walkthroughs.
 
-By the end of this book, *you*, the Reader, will have created multiple Drupal websites using the most modern methods for efficiency, accessibility, and mobile-ready design.
+By the end of this book, *you*, the Reader, will have created multiple Drupal websites using the most modern methods for efficiency, accessibility, and mobile-ready design. The book will take everything a step further by walking you through common tips and tricks for local development, Configuration Management (aka: making your local changes appear on the server), deployment (moving your local site to a Development Server and from Development to the Test Server, then the Live Server), and more.
 
+Before using the most powerful _features_ of Drupal however, you must first gain access to some of the most powerful _tools_ for Drupal. See {{ book.introduction.early-development }} to learn about what accounts you should create before starting this journey.
 
 Chapter 1:
   -- Creating an account on Drupal.org

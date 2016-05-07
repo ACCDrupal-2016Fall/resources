@@ -2,6 +2,10 @@
 
  ## Modern Drupal 7 Development Syllabus (Work In Progress)
 + Introduction
+  - Early Development
+  - Joining _Drupal.org_
+  - Creating an account on GitHub
+  - Creating an account on Pantheon.io
 + Overview of Content Management Systems (CMS), Drupal, and Critical Knowledge
   - CMS:
     + What is a CMS?

@@ -13,7 +13,7 @@
     },
     "chapters": {
       "foreword": "Foreword",
-      "overview": "Introduction"
+      "introduction": "Introduction"
     },
     "sections": {
       "foreword": {
@@ -23,10 +23,14 @@
         "syllabus": "Syllabus",
         "table-of-contents": "Table of Contents"
         },
-        "overview": {
+        "introduction": {
           "creating-pantheonio-account": "Registering for an account at _Pantheon.io_",
           "creating-github-account": "Registering for a GitHub Account",
-          "joining-drupal-org": "Registering for an account at _Drupal.org",
+          "early-development": "Early Development",
+          "joining-drupal-org": "Registering for an account at _Drupal.org"
+        },
+        "overview": {
+          "the-workflow": "The Workflow",
           "system-requirements": "System Requirements"
         }
       },
