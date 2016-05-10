@@ -1,26 +1,28 @@
 # {{ book.sections.foreword.about-the-book }}
 
-## Modern Drupal 7 Development
+## Prerequisites:
+* Familiarity with computers and browsing the Internet, Intermediate WWW Authoring, HTML, and CSS. 
 
-This book is a work-in-progress.
+## Objectives:
 
-+ If it can be written, it is known.
-+ If it is known, it is reproducible.
-+ If it can be complicated, someone **will** do so.
-+ If it isn't documented, it doesn't exist.
+### Every student will be able to:
 
-## Goals:
+* Describe multiple industry recommended methods for server file-transfers
+* List the seven architectural properties affected by the constraints defined within the REST architectural style and 
+* Create web pages and supporting elements using current authoring tools
+* Maintain web pages and supporting elements
+* Troubleshoot common CMS issues within Drupal and similar CMS systems
+* Describe PHP and its relation to the Drupal web system
+* Identify and explain the parts the LAMP (Linux, Apache, MySQL, and PHP) Stack and the Drupal Stack
+* Use Pantheon.io, one of the foremost Drupal Open SaaS hosting platforms, to quickly and easily create, deploy, update, and manage modern websites
+* Create and use Cascacading Style Sheets, HTML5 enhanced templates, and Javascript frameworks (such as Foundation 6) within the Drupal web system
+* List common Developer Tools for maintaining accessibility requirements, cross-browser compatibility, and RESTful enabled services
+* Publish a customized portfolio website utilizing modern Javascript frameworks, HTML5, and CSS3 functionality on a Drupal-enabled platform
 
-### Instruct users new to Content Management and database systems how to:
-
-1. create modern websites and supporting elements using current authoring tools;
-2. maintain websites and supporting elements;
-3. and, manage content between local Development and Server environments.
 
 
 
 -----
 
-#### Further Reading:
+### Further Reading:
 
-[An Article On Acquia's Drupal Certification](http://certmag.com/acquia-certification-can-help-master-drupal-web-development/ "Certification Magazine")
