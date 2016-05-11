@@ -41,3 +41,8 @@ For the workflow in *this* book, we will be using only the following tools, with
 In the next few sections, we will walk slowly through creating an account and logging in with GitHub, Pantheon, and Drupal.org, followed by downloading and installing either Kalabox or Drupal VM for local development.
 
 Kalabox allows for a faster and more efficient development time, but Drupal VM is infinitely more extensible (modular), though only when using Ansible on either Mac OSX or Linux boxes. We will be using Kalabox within this book primarily however because it is fully cross-compatible on **all** systems, Windows included.
+
+Scratch Notes --> Kalabox requires Windows 8 or greater
+So does Drupal VM
+
+Working on Windows 7 machines is going to be difficult. I wonder how hard it would be to have them install Linux.
