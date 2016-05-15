@@ -4,6 +4,8 @@
 
 [Modern Drupal 7 Web Authoring](https://accdrupal-2016fall.gitbooks.io/modern-drupal-7-web-authoring/content/index.html "Modern Drupal 7 Web Authoring")
 
+A change right quick. 
+
 ## Resources from across the Net for teaching and learning Drupal
 
 * OpenDrupal.org
