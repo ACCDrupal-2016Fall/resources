@@ -1,5 +1,9 @@
 # Fito and Charles's Drupal Curriculum, Book, and Content Development Resources
 
+## View us on Gitbook
+
+[Modern Drupal 7 Web Authoring](https://accdrupal-2016fall.gitbooks.io/modern-drupal-7-web-authoring/content/index.html "Modern Drupal 7 Web Authoring")
+
 ## Resources from across the Net for teaching and learning Drupal
 
 * OpenDrupal.org
@@ -29,3 +33,5 @@ root/images/book/
     - chapter_name2/
     - etc/
 ```
+
+
