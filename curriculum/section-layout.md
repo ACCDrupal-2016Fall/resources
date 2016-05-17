@@ -1,7 +1,7 @@
+# Section Layout Format
 ---
 layout: Section
 ---
-# [Section Layout Format]{#section-layout}
 
 Section <#> <Title>
 * Prerequisite Knowlege

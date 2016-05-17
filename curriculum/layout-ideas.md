@@ -6,12 +6,9 @@ Layouts are important for document development.
 
 ### Unit Layout
 
-[Unit Layout Format](#unit-layout)
-
 Units should move sequentially based on subject matter learned, as identified within the Syllabus.
 Each Unit should *preferably* address a separate item on the Syallabus.
 
-* Foreword
 * Unit One - Week One
 * Unit Two - Week Two
 * Unit Three - Week Three
@@ -23,4 +20,7 @@ Each Unit should *preferably* address a separate item on the Syallabus.
 
 ### Section Layout
 
-[Section Layout Format](#section-layout)
+* Unit One - Week One
+  * Foreword
+  * Introduction
+  * Overview

@@ -1,7 +1,8 @@
+# Unit Layout Format
+
 ---
 layout: Unit
 ---
-# [Unit Layout Format]{#unit-layout}
 
 Week <#>: <Title>
   Unit <#> <Title>
