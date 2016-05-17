@@ -1,6 +1,6 @@
-# {{ book.sections.foreword.foreword_license }}
+# {{ book.sections.foreword.foreword-license }}
 
-This book was licened with a xxxxxxx.
+{{ book.authors }} own this book. Straight up!
 
 ## You are free to:
 

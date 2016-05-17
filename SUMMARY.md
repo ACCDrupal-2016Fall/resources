@@ -1,0 +1,18 @@
+# {{ book.sections.foreword.table-of-contents }}
+
+* [Introduction](README.md)
+* [Foreword](manuscript/foreword.md)
+ * [License](manuscript/foreword-license.md)
+ * [Table Of Contents](table-of-contents.md)
+ * [About The Book](manuscript/about-the-book.md)
+ * [Understanding The Book](manuscript/understanding-the-book.md)
+ * [About The Author](manuscript/about-the-authors.md)
+ * [Syllabus](manuscript/syllabus.md)
+* [Introduction](manuscript/introduction.md)
+ * [Early Development](manuscript/early-development.md)
+ * [Joining _Drupal.org_](manuscript/joining-drupal-org.md)
+ * [Creating a GitHub Account](manuscript/creating-github-account.md)
+ * [Creating a _Pantheon.io_ Account](manuscript/creating-pantheonio-account.md)
+* [Overview](manuscript/overview.md)
+ * [System Requirements](manuscript/system-requirements.md)
+ * [The Workflow](manuscript/the-workflow.md)

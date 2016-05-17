@@ -1,22 +1,37 @@
 {
   "variables": {
     "glossary": {
+      "accessibility": "Accessibility",
       "drupal": "Drupal",
       "drupal_7": "Drupal 7",
       "drupal_8": "Drupal 8",
+      "git": "Git",
+      "linux": "Linux",
       "vcs": "Version Control System",
-      "git": "Git"
+      "ui": "User Interface",
+      "ux": "User Experience"
     },
     "chapters": {
-      "foreword": "Foreword"
+      "foreword": "Foreword",
+      "introduction": "Introduction"
     },
     "sections": {
       "foreword": {
-        "about_the_book": "About The Book",
-        "about_the_authors": "About The Authors",
-        "foreword_license": "License",
+        "about-the-book": "About The Book",
+        "about-the-authors": "About The Authors",
+        "foreword-license": "License",
         "syllabus": "Syllabus",
-        "table_of_contents": "Table of Contents"
+        "table-of-contents": "Table of Contents"
+        },
+        "introduction": {
+          "creating-pantheonio-account": "Registering for an account at _Pantheon.io_",
+          "creating-github-account": "Registering for a GitHub Account",
+          "early-development": "Early Development",
+          "joining-drupal-org": "Registering for an account at _Drupal.org"
+        },
+        "overview": {
+          "the-workflow": "The Workflow",
+          "system-requirements": "System Requirements"
         }
       },
     "authors": {
