@@ -1,12 +1,15 @@
 # Unit Layout Format
 
-## Unit <#> <Title>
+## Unit Num: Unit Title
 
-* Week <#>: <Title>
-  * Unit <#> <Title>
-  * Section <#> <Title>
-  * Unit <#> Summary
-  * Unit <#> Further Reading (*Aggregated from all Sections*)
+* Week Num: Title
+  * Unit Num: Unit Title
+  * Section Num.1: Section Title
+  * Section Num.2: Section Title
+  * Section Num.3: Section Title
+  * Section Num.*n*: Section Title
+  * Unit Num: Summary
+  * Unit Num: Further Reading (*Aggregated from all Sections*)
 
 
 

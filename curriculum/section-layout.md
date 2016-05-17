@@ -1,9 +1,9 @@
 # Section Layout Format
 
-## Section <#> <Title>
+## Section Num: Title
 
 * Prerequisite Knowlege
-* Section <Title>
+* Section: Title
 * Goals
 * Site Prerequisites (if any)
 * Steps
