@@ -26,7 +26,7 @@ Because the Open Source Community continually improves on everything within itse
 * [Drupal Console](https://drupalconsole.com/ "Drupal Console"),
  * and many others...
 
-## Modern Drupal Web Authoring
+## Modern Drupal 7 Web Authoring
 
 For the workflow in *this* book, we will be using only the following tools, with careful work instructions (so don't get overwhelmed!).
 

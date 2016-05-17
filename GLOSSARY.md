@@ -18,6 +18,9 @@ Git is a {{ book.glossary.vcs }} used by the Drupal Community.Git keeps track of
 # {{ book.glossary.linux }}
 Define Linux and expand on how Linux is used in relation to Drupal here.
 
+# {{ book.glossary.project }}
+A Project, in relation to {{ book.glossary.drupal }}, is a directory containing a tool that can be used to create, extend, or power Drupal. The Core Drupal Distribution, for example, is a Project. Examples of Projects include: Core Releases, Distributions, Themes, Modules, and Translation projects.
+
 # {{ book.glossary.saas }}
 Software as a Service, also known as SaaS, is a software delivery method where the software is hosted (and often managed) by a third-party company. Some SaaS companies, such as SAP and SalesForce, own the software offered. In contrast, many hosting companies also follow the Open SaaS model. Like SaaS, companies offering OSaaS service host open source software on their systems. Pantheon.io is a good example of a company originally founded on the OSaaS model, though they have greatly expanded services since that time.
 

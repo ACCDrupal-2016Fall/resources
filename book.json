@@ -7,25 +7,29 @@
       "drupal_8": "Drupal 8",
       "git": "Git",
       "linux": "Linux",
+      "project": "Project",
       "vcs": "Version Control System",
       "ui": "User Interface",
       "ux": "User Experience"
     },
     "chapters": {
       "foreword": "Foreword",
-      "introduction": "Introduction"
+      "introduction": "Introduction",
+      "drupal-overview": "Drupal Overview"
     },
     "sections": {
       "foreword": {
         "about-the-book": "About The Book",
         "about-the-authors": "About The Authors",
+        "course-overview": "Course Overview",
         "foreword-license": "License",
         "prerequisites": "Prerequisites",
+        "projects": "Projects",
         "syllabus": "Syllabus",
-        "table-of-contents": "Table of Contents",
-        "understanding-the-book": "Understanding The Book"
+        "table-of-contents": "Table of Contents"
         },
         "introduction": {
+          "content-management-systems": "Content Management Systems (CMS)",
           "creating-pantheonio-account": "Registering for an account at _Pantheon.io_",
           "creating-github-account": "Registering for a GitHub Account",
           "early-development": "Early Development",
