@@ -5,7 +5,7 @@
  * [License](manuscript/foreword-license.md)
  * [Table Of Contents](table-of-contents.md)
  * [About The Book](manuscript/about-the-book.md)
- * [Understanding The Book](manuscript/understanding-the-book.md)
+ * [Course Overview](manuscript/course-overview.md)
  * [About The Author](manuscript/about-the-authors.md)
  * [Syllabus](manuscript/syllabus.md)
 * [Introduction](manuscript/introduction.md)

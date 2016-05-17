@@ -12,7 +12,7 @@
  * [Section 0.5: Syllabus](manuscript/syllabus.md)
 * [Unit One: Overview & Development](manuscript/overview-and-development.md "Unit One - Overview & Development")
   * [Section 1.1: Introduction](manuscript/introduction.md)
-   * [Section 1.1.0: Content Managemet Systems](manuscript/content-management-systems.md "Content Managemet Systems")
+   * [Section 1.1.0: Content Management Systems](manuscript/content-management-systems.md "Content Management Systems")
    * [Section 1.1.1: Early Development](manuscript/early-development.md)
    * [Section 1.1.2: Joining _Drupal.org_](manuscript/joining-drupal-org.md)
    * [Section 1.1.3: Creating a GitHub Account](manuscript/creating-github-account.md)
