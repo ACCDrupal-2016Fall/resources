@@ -1,9 +1,7 @@
 # Section Layout Format
----
-layout: Section
----
 
-Section <#> <Title>
+## Section <#> <Title>
+
 * Prerequisite Knowlege
 * Section <Title>
 * Goals
