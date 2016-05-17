@@ -20,8 +20,10 @@
         "about-the-book": "About The Book",
         "about-the-authors": "About The Authors",
         "foreword-license": "License",
+        "prerequisites": "Prerequisites",
         "syllabus": "Syllabus",
-        "table-of-contents": "Table of Contents"
+        "table-of-contents": "Table of Contents",
+        "understanding-the-book": "Understanding The Book"
         },
         "introduction": {
           "creating-pantheonio-account": "Registering for an account at _Pantheon.io_",
