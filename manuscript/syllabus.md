@@ -28,7 +28,7 @@
         + Setting up SSH keys
         + Using SCP to upload and download files securely
     + Introduction to Drush
-    + Project Porfolio - Adding some changes and 'patching' new changes.
+    + Project Portfolio - Adding some changes and 'patching' new changes.
 + Development & The Drupal Association
   - Design Systems
     + Accessibility
@@ -81,5 +81,3 @@
 -----
 
 #### Further Reading:
-
-

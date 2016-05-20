@@ -2,7 +2,7 @@
 
 Authoring a project in any modern CMS begins with the tools chosen to author it *with*.
 
-Drupal is fully featured and capable of huge layers of **extensibility**. Extensibilty, meaning 'able to be made bigger' (basically). This is a small piece of a concept that will be defined later in the book called **modularity**. Modularity can be thought of by imaginging a computer with a single *virtual* motherboard. Because the foundation of the computer is virtual, it can be upgraded piece-by-piece, part-by-part until the new system has no relation to the old, yet is infinitely better.
+Drupal is fully featured and capable of huge layers of **extensibility**. Extensibility, meaning 'able to be made bigger' (basically). This is a small piece of a concept that will be defined later in the book called **modularity**. Modularity can be thought of by imagining a computer with a single *virtual* motherboard. Because the foundation of the computer is virtual, it can be upgraded piece-by-piece, part-by-part until the new system has no relation to the old, yet is infinitely better.
 
 ## Modularity
 
@@ -41,4 +41,3 @@ For the workflow in *this* book, we will be using only the following tools, with
 In the next few sections, we will walk slowly through creating an account and logging in with GitHub, Pantheon, and Drupal.org, followed by downloading and installing either Kalabox or Drupal VM for local development.
 
 Kalabox allows for a faster and more efficient development time, but Drupal VM is infinitely more extensible (modular), though only when using Ansible on either Mac OSX or Linux boxes. We will be using Kalabox within this book primarily however because it is fully cross-compatible on **all** systems, Windows included.
-

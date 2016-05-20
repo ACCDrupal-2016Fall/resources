@@ -9,7 +9,7 @@ Examples of Projects include:
 * **Modules:** Views, Token, Pathauto, etc.
 * **Translation projects:** Ukrainian, Hungarian, Spanish, etc.
 
-Distribution projects and Translation Projects are out of scope for this course, but Students are, as always, encouraged to explore the possibilitites on their own. The *Web 3.0* world encourages companies and tools to be responsive on a global scale and reaching customers in many different languages can only help a business suceed.
+Distribution projects and Translation Projects are out of scope for this course, but Students are, as always, encouraged to explore the possibilities on their own. The *Web 3.0* world encourages companies and tools to be responsive on a global scale and reaching customers in many different languages can only help a business succeed.
 
 ## Projects Used
 
@@ -31,6 +31,6 @@ https://www.drupal.org/drupal-7.43-release-notes
 * Libraries
 * ThemeKey
 
-> **Note** Some of the required modules are dependant on other modules to install. These dependancies are clarified within each Section where the Module is used, but Students can also see the Project page for any Module to learn about required dependancies.
+> **Note** Some of the required modules are dependent on other modules to install. These dependencies are clarified within each Section where the Module is used, but Students can also see the Project page for any Module to learn about required dependencies.
 
 > **Note** Some Modules also require special *Libraries* to function. These *Libraries*, which typically require the very appropriately named *Libraries* Module, extend Drupal using Projects **external** to Drupal, such as Foundation, Bootstrap, Accessible MegaMenus, the highly accessible Slick Carousel, and more....
