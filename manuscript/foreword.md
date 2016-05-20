@@ -20,4 +20,4 @@ Welcome to your journey into Web Authoring with Drupal, a platform and community
 
 ## Note
 
-This book is was written with a focused committment on **Novice Level** Drupal. In Car Salesman terms, this woudl be a "Bumper to Bumper" book, but I prefer the Super Hero mentality: "From Zero to Hero".
+This book is was written with a focused commitment on **Novice Level** Drupal. In Car Salesman terms, this would be a "Bumper to Bumper" book, but I prefer the Super Hero mentality: "From Zero to Hero".

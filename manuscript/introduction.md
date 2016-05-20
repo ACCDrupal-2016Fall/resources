@@ -6,7 +6,7 @@ The software offered is as varied as the hosting companies. A new user could cho
 
 So why, from all the options, should you choose Drupal?
 
-Acquia, one of the largest Drupal companies in the world, put togther great list of ten reasons commonly used by the Drupal Community answering this question. Drupal is:
+Acquia, one of the largest Drupal companies in the world, put together great list of ten reasons commonly used by the Drupal Community answering this question. Drupal is:
 
 1 A platform for rapid website assembly
 2 Enormously scalable
@@ -15,7 +15,7 @@ Acquia, one of the largest Drupal companies in the world, put togther great list
 5 Open to your branding
 6 Flexible in deployment
 7 Beloved by a thriving development community
-8 Without softare acquisition or licencing costs (aka: it is free to use)
+8 Without software acquisition or licensing costs (aka: it is free to use)
 9 Fanatical about following standards
 10 Proven high in security
 
@@ -36,4 +36,3 @@ Chapter 1:
     -- Consider joining the Drupal Association
   -- Creating an account at Pantheon.io
   -- Creating an account at GitHub.org
-

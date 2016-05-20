@@ -2,7 +2,7 @@
 
 ## Section Num: Title
 
-* Prerequisite Knowlege
+* Prerequisite Knowledge
 * Section: Title
 * Goals
 * Site Prerequisites (if any)
@@ -12,7 +12,3 @@
 * Section Summary
 * Related *(internal related content)*
 * Further Reading (if any) *(external related content)*
-
-
-
-

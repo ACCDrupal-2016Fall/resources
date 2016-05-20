@@ -16,7 +16,7 @@
 
 > **Note** Pantheon.io was chosen as the most ideal Platform as a Service (PaaS) company for this course, however alternatives exist. See the Appendix for other hosting options such as Digital Ocean (hosting only), GoDaddy (hosting only), Omega8, and Acquia Cloud.
 
-## Prerequisite Knowlege
+## Prerequisite Knowledge
 
 All aspiring developers should have:
 * a familiarity with computers and browsing the Internet;
@@ -25,7 +25,7 @@ All aspiring developers should have:
 
 Knowledge of command line tools, such as iTerm2 (Mac OS) or the Command Prompt (Windows) is preferred, but in no way required.
 
-Every Challenge excersise will include careful walkthroughs with screenshots and Instructor-led development. The largest requirement is a willingness to learn new concepts and the ability to shrug off errors. Early development in any CMS often results in errors, which is **OKAY**. A full Section is dedicated to Troubleshooting Drupal within the Course. Students are welcome to try Troubleshooting their own issues or contacting their Instructor.
+Every Challenge exercise will include careful walkthroughs with screenshots and Instructor-led development. The largest requirement is a willingness to learn new concepts and the ability to shrug off errors. Early development in any CMS often results in errors, which is **OKAY**. A full Section is dedicated to Troubleshooting Drupal within the Course. Students are welcome to try Troubleshooting their own issues or contacting their Instructor.
 
 ## Objectives
 
