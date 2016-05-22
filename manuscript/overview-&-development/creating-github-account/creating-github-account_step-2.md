@@ -22,36 +22,37 @@ The key is created in relation to each *individual* login to a computer, so will
 > On Linux or Mac machines, this location is instead ```/home/<your-user-name>/.ssh``` or something very similar.
 
 #### Generate the SSH Key
-* Open Git Bash
- ![Open Git Bash](../../../images/overview-&-development/github/github-create-ssh-key_3.JPG)
+##### Open Git Bash
+![Open Git Bash](../../../images/overview-&-development/github/github-create-ssh-key_3.JPG)
 
-* Enter this command: ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```
- * When prompted for a location to place the file, just press Enter.
- ![Enter Command](../../../images/overview-&-development/github/github-create-ssh-key_4.JPG)
- > Because this SSH Key can be used for **all** of your Git repositories (and Remote Hosts), it does not matter what directory your are in when the command is executed.
+#####  Enter this command: ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"```
+* When prompted for a location to place the file, just press Enter.
+![Enter Command](../../../images/overview-&-development/github/github-create-ssh-key_4.JPG)
+> Because this SSH Key can be used for **all** of your Git repositories (and Remote Hosts), it does not matter what directory your are in when the command is executed.
 
-* When prompted, enter a passphrase, for security.
- ![Enter Passphrase](../../../images/overview-&-development/github/github-create-ssh-key_5.JPG)
- > **Warning** - You *can* hit enter here to have **no** passphrase on your SSH Keys. This is not a Best Practice because anyone who retrieves a copy of your SSH Key (such as an Administrator or another User with Administrative privileges) has unlimited access to any of your repositories.
+##### When prompted, enter a passphrase, for security.
+![Enter Passphrase](../../../images/overview-&-development/github/github-create-ssh-key_5.JPG)
+
+> **Warning** - You *can* hit enter here to have **no** passphrase on your SSH Keys. This is not a Best Practice because anyone who retrieves a copy of your SSH Key (such as an Administrator or another User with Administrative privileges) has unlimited access to any of your repositories.
 
 
 #### Add the SSH Key to ```ssh-agent```
-Git for Windows and Git Bash come with a useful tool called ```ssh-agent```.
+Git for Windows and Git Bash come with a great tool called ```ssh-agent```.
 
 This useful package locally stores *your* SSH information so that you do not have to input your GitHub password each time you ```push``` or ```pull``` content from GitHub.
 
-* Turn on the ```ssh-agent```
- **Only on Git for Windows**
- * Enter this command: ``` $eval "$(ssh-agent -s)" ```
- ![Activate the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_1.JPG)
+##### Turn on the ```ssh-agent```
+**Only on Git for Windows**
+* Enter this command: ``` $eval "$(ssh-agent -s)" ```
 
- > **Note** - On Git Bash, the SSH-Agent is already activated, but you can check your PID using the following command:
+![Activate the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_1.JPG)
+> **Note** - On Git Bash, the SSH-Agent is already activated, but you can check your PID using the following command:
 
  ```
  $eval "$(ssh-agent -s)"
  ```
  ![Evaluate the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_2.JPG)
 
-* Add SSH Key to ```ssh-agent```
- * Enter this command: ```ssh-add ~/.ssh/id_rsa```
- ![Add the SSH Key to the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_3.JPG)
+##### Add SSH Key to ```ssh-agent```
+* Enter this command: ```ssh-add ~/.ssh/id_rsa```
+![Add the SSH Key to the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_3.JPG)
