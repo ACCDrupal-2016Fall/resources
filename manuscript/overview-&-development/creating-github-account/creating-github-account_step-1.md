@@ -1,6 +1,6 @@
 # Creating a GitHub Account
 
-![GitHub](../../../images/overview-&-development/github/GitHub-Logo.png)
+![GitHub](../../../images/overview-&-development/github/GitHub_Logo.png)
 
 ## Step 1 - Create the Account
 
