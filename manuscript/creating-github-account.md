@@ -1,6 +1,6 @@
 # Creating a GitHub Account
 
-![Octocat](../../../images/overview-&-development/github/Octocat.png)
+![Octocat](../images/overview-&-development/github/Octocat.png)
 
 ## Prerequisites
 

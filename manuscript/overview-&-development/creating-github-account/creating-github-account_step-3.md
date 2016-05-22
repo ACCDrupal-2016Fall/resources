@@ -1,4 +1,8 @@
 # Creating a GitHub Account
+
+![Octocat](../../../images/overview-&-development/github/Octocat.png)
+
+
 ## Step 3 - Add the SSH Key to GitHub
 
 ### Adding the SSH Key to [GitHub.com](https://github.com "GitHub.com")
