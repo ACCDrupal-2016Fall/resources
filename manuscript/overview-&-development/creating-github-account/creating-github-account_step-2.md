@@ -45,14 +45,15 @@ This useful package locally stores *your* SSH information so that you do not hav
 **Only on Git for Windows**
 * Enter this command: ``` $eval "$(ssh-agent -s)" ```
 
-![Activate the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_1.JPG)
+![Activate the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_2.JPG)
 > **Note** - On Git Bash, the SSH-Agent is already activated, but you can check your PID using the following command:
 
  ```
  $eval "$(ssh-agent -s)"
  ```
- ![Evaluate the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_2.JPG)
+ ![Evaluate the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_1.JPG)
 
 ##### Add SSH Key to ```ssh-agent```
 * Enter this command: ```ssh-add ~/.ssh/id_rsa```
+
 ![Add the SSH Key to the SSH Agent](../../../images/overview-&-development/github/github-add-ssh-agent_3.JPG)

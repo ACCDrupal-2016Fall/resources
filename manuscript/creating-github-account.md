@@ -37,9 +37,9 @@ Real projects in the business world require careful navigation between Branches,
 ## Step-By-Step Account Creation
 
 * **Creating a GitHub Account**
- * [Step 1 - Create the Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
- * [Step 2 - Create an SSH Key Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
- * [Step 3 - Add the SSH Key to GitHub Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
+ * [Step 1 - Create the Account](overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
+ * [Step 2 - Create an SSH Key Account](overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
+ * [Step 3 - Add the SSH Key to GitHub Account](overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
 
 
 ## Further Reading
