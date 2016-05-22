@@ -6,7 +6,7 @@ The software offered is as varied as the hosting companies. A new user could cho
 
 So why, from all the options, should you choose Drupal?
 
-![Why choose Drupal?](../images/drupal-logos/druplicon-logos/druplicon-small.png)
+![Why choose Drupal?](../images/general/drupal-logos/druplicon-logos/druplicon-small.png)
 
 Acquia, one of the largest Drupal companies in the world, put together great list of ten reasons commonly used by the Drupal Community answering this question. Drupal is:
 
