@@ -20,11 +20,11 @@
 ![Click *New SSH Key*](../../../images/overview-&-development/github/github-create-ssh-key_6.JPG)
 
 #### Enter SSH Key
-![Click *Add SSH Key*](../../../images/overview-&-development/github/github-create-ssh-key_7.JPG)
-
 > Use a Title that will specify exactly what Device you are accessing your GitHub account with.
 
 > Example:  ```ACC-Computer_Lab_Seat_5```
+
+![Click *Add SSH Key*](../../../images/overview-&-development/github/github-create-ssh-key_7.JPG)
 
 ##### Get *Public* SSH Key for GitHub
 You must have the *right* text to enter into GitHub. There were two files created with your SSH Key: ```id_rsa``` and ```id_rsa.pub```.
