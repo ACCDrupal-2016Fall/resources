@@ -34,6 +34,14 @@ Real projects in the business world require careful navigation between Branches,
 | Repository  | Project   | Repository  | The Repository is (should be) your complete Project, from source code to documentation.   |
 | Teams   | Groups   | Organizations  | A project is added into an Organization to add group-level Administration. Adding your Git Repository for this class to the Repository assigned by your professor, for example, would add you to an Organization.  |
 
+## Step-By-Step Account Creation
+
+* **Creating a GitHub Account**
+ * [Step 1 - Create the Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
+ * [Step 2 - Create an SSH Key Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
+ * [Step 3 - Add the SSH Key to GitHub Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
+
+
 ## Further Reading
 * **Git**
  * [Git-SCM = Pro Git](https://git-scm.com/book/en/v2 "Git-SCM = Pro Git") - The entire Pro Git book by Scott Chacon and Ben Straub (published by Apress) has been made available online as a free resource for interested Git users.
