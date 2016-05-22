@@ -1,4 +1,7 @@
 # Creating a GitHub Account
+
+![GitHub Mark](../../../images/overview-&-development/github/GitHub-Mark-64px.png)
+
 ## Step 2 - Create an SSH Key
 
 SSH keys are the digital versions of the car-clicker that unlocks your car as you approach it.

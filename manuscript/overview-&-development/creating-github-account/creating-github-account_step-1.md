@@ -1,4 +1,7 @@
 # Creating a GitHub Account
+
+![GitHub](../../../images/overview-&-development/github/GitHub-Logo.png)
+
 ## Step 1 - Create the Account
 
 Creating an account at GitHub.com is only the first step in creating a *useable* account for this course.

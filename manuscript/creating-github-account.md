@@ -1,5 +1,7 @@
 # Creating a GitHub Account
 
+![Octocat](../../../images/overview-&-development/github/Octocat.png)
+
 ## Prerequisites
 
 None
@@ -40,6 +42,16 @@ Real projects in the business world require careful navigation between Branches,
  * [Step 1 - Create the Account](../manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step 1 - Create the Account")
  * [Step 2 - Create an SSH Key Account](../manuscript/overview-&-development/creating-github-account/creating-github-account_step-2.md "Step 2 - Create an SSH Key Account")
  * [Step 3 - Add the SSH Key to GitHub Account](../manuscript/overview-&-development/creating-github-account/creating-github-account_step-3.md "Step 3 - Add the SSH Key to GitHub Account")
+
+ Congratulations!
+
+ Your local version of Git and remote account on GitHub are both configured and ready to work with other software packages.... like Drupal!
+
+### What's Next?
+
+Now that your local version of Git and remote GitHub is completely configured, it's time to create our first Drupal project!
+
+See the next section to create an account with Pantheon.io and begin working with both GitHub and Pantheon together!
 
 
 ## Further Reading
