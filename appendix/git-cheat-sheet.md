@@ -1,7 +1,9 @@
 # Git Cheat Sheet
 
 **HEAD** - The currently active Branch on *your* local repository. Whether on Branch ```master```, ```slave```, or ```poodle```, the HEAD is the state of your file-set frozen at the point of the most recent Commit. Resetting to ```HEAD``` will simply undo all changes that have not been committed.
+
 **Remote** - This is the non-local 'copy' of your files. Typically this is GitHub, though other Remote locations can be added.
+
 **Local** - This is your local 'copy' of your files. Typically this is a directory on your computer where Git Bash is opened to, for tracking changes.
 
 ## Common Git Commands
@@ -11,12 +13,12 @@
 
 | Task  | Command   |
 | :--- | :--- |
-| Configuring the Local machine  |  |
+| **Configuring the Local machine**  |  |
 | Define the author name for all commits by current user  | ``` git config --global user.name <name> ``` |
 | Define the author email for all commits by current user  | ``` git config --global user.email <name> ``` |
 | Set the Text Editor to be used when commands require text editing  | ``` git config --system core.editor atom.exe ``` |
 | Open the global configuration file for editing (if you got something wrong)  | ``` git config --global --edit ``` |
-| Configuring Remotes  |  |
+| **Configuring Remotes**  |  |
 | View Remotes  | ```git remote -v``` |
 | Add a Remote  | ```git remote add <local-name-for-remote> <remote-url>``` |
 | Delete a Remote  | ```git remote rm <local-name-for-remote>``` |
@@ -50,9 +52,9 @@
 | :--- | :--- |
 | Review file changes within a repository  | ``` git status ``` |
 | Add all changes in all edited files to the next commit  | ```git add . OR git add *```  |
-| Commit Local Changes  |   |
-| + All Changes  | ```git commit -a -m "<add text here>"```  |
-| + Previously Staged Changes  | ```git commit -m "<add text here>"```  |
+| **Commit Local Changes**  |   |
+| All Changes  | ```git commit -a -m "<add text here>"```  |
+| Previously Staged Changes  | ```git commit -m "<add text here>"```  |
 > Note, you must be at or below the root of the Git repository.
 
 > The ```-m``` tag is rarely included in most instructions, but should always be included because Git requires comments for every commit made.
