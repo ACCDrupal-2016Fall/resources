@@ -14,11 +14,9 @@
 ### Create a New, Local Repository
 | Task  | Command   |
 | :---: | :---: |
-| Clone an existing repository  |
-```
-git clone https://github.com/ACCDrupal-2016Fall/resources.git
-```
-|
+| Clone an existing repository  | ``` git clone https://github.com/ACCDrupal-2016Fall/resources.git ``` |
+
+
 
 #### Create a completely new repository
 ```
