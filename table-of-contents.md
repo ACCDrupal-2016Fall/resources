@@ -21,3 +21,5 @@
   * [Section 1.2: Overview](manuscript/drupal-overview.md)
    * [Section 1.2.1: System Requirements](manuscript/system-requirements.md)
    * [Section 1.2.2: The Workflow](manuscript/the-workflow.md)
+* [Appendix](appendix/appendix.md)
+ * [Git Cheat Sheet](appendix/git-cheat-sheet.md)
