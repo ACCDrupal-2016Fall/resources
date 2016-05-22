@@ -1,10 +1,11 @@
-# {{ book.sections.foreword.table-of-contents }}
+# Table of Contents
 
 * [Introduction](README.md)
 * [Foreword](manuscript/foreword.md)
  * [License](manuscript/foreword-license.md)
  * [Table Of Contents](table-of-contents.md)
  * [About The Book](manuscript/about-the-book.md)
+ * [Schedule](manuscript/schedule.md)
  * [Course Overview](manuscript/course-overview.md)
  * [About The Author](manuscript/about-the-authors.md)
  * [Syllabus](manuscript/syllabus.md)

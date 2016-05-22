@@ -1,4 +1,4 @@
-# {{ book.sections.foreword.table-of-contents }}
+# Table of Contents
 
 ## Curriculum
 
@@ -7,9 +7,10 @@
  * [Section 0.0: License](manuscript/foreword-license.md)
  * [Section 0.1: Table Of Contents](table-of-contents.md)
  * [Section 0.2: About The Book](manuscript/about-the-book.md)
- * [Section 0.3: Course Overview](manuscript/course-overview.md)
- * [Section 0.4: About The Author](manuscript/about-the-authors.md)
- * [Section 0.5: Syllabus](manuscript/syllabus.md)
+ * [Section 0.3: Schedule](manuscript/schedule.md)
+ * [Section 0.4: Course Overview](manuscript/course-overview.md)
+ * [Section 0.5: About The Author](manuscript/about-the-authors.md)
+ * [Section 0.6: Syllabus](manuscript/syllabus.md)
 * [Unit One: Overview & Development](manuscript/overview-and-development.md "Unit One - Overview & Development")
   * [Section 1.1: Introduction](manuscript/introduction.md)
    * [Section 1.1.0: Content Management Systems](manuscript/content-management-systems.md "Content Management Systems")
