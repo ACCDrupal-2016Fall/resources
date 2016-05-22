@@ -1,4 +1,4 @@
-# {{ book.sections.foreword.about-the-book }}
+# About The Book
 
 ## Prerequisites:
 * Familiarity with computers and browsing the Internet, Intermediate WWW Authoring, HTML, and CSS.

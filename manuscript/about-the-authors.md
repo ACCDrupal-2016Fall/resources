@@ -1,4 +1,4 @@
-# {{ book.sections.foreword.about-the-authors }}
+# About The Authors
 
 ## Charles Leverington
 

@@ -2,10 +2,17 @@
 
 ## [github.com/](https://github.com/ "github.com")
 
-There are a number of Git repositories online where an account can be created, such as GitHub, BitBucket, and GitLab. They each have their upsides and downsides. What is important for this course it to understand *how* to use the following simultaneously:
+There are a number of Git repositories online where an account can be created, such as GitHub, BitBucket, and GitLab. They each have their upsides and downsides. What is important for this course it to understand *how* to use the following:
 
+* Git Bash
+* Git GUI
+* GitHub.com
 
-> Because each are unique, they each have their own naming conventions for common tasks. This curriculum will follow GitHub terminology, so keep this in mind if choosing to use BitBucket or GitLab.
+That's it.
+
+Real projects in the business world require careful navigation between Branches, Projects, Upstreams, Downstreams, and many other buzzwords. These real-world scenarios though will generally all have two things in common, if using Git: **Documentation** and **Workflow**.
+
+> Because each online Repository is unique, they each have their own naming conventions for common tasks. This curriculum will follow GitHub terminology, so keep this in mind if choosing to use BitBucket or GitLab.
 
 | BitBucket  | GitLab  | GitHub   | Definition  |
 | :-------------: |:-------------:| :-----:|:--: |

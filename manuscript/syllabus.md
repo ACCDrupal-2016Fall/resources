@@ -1,6 +1,6 @@
-# {{ book.sections.foreword.syllabus }}
+# Syallabus
 
- ## Modern Drupal 7 Development Syllabus (Work In Progress)
+## Modern Drupal 7 Development Syllabus (Work In Progress)
 + Introduction
   - Early Development
   - Joining _Drupal.org_
