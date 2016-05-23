@@ -1,6 +1,6 @@
 # Joining *Drupal.org*
 
-![Druplicon](../images/general/drupal-logos/druplicon-small.png)
+![Druplicon](../images/general/drupal-logos/druplicon-logos/druplicon-small.png)
 
 ## Prerequisites
 
