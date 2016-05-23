@@ -9,6 +9,7 @@ An email address for account verification.
 ## Goals
 
 * Create an account at *Drupal.org*
+* Verify created account via email
 
 ## Creating a Drupal Community Account
 
@@ -30,6 +31,16 @@ An email address for account verification.
 
 #### Complete your Registration
 ![Finish Registration](../images/overview-&-development/join-drupal/join-drupal_5.JPG)
-> The information provided here need not be your real first and last name, but it is encouraged. 
+> The information provided here need not be your real first and last name, but it is encouraged.
 
 > Be aware, everything you enter on this screen will be publically available information.
+
+#### Check Your Email!!
+![Verify Your Email](../images/overview-&-development/join-drupal/join-drupal_6.JPG)
+> Your Account will not officially be created until you verify your email address.
+
+#### Congratulations!!
+![Congratulations](../images/overview-&-development/join-drupal/join-drupal_7.JPG)
+
+## Further Reading
+ * [Drupal Association](https://assoc.drupal.org "Drupal Association") - Known as the DA, the Drupal Association roots the heart and soul of the Drupal Community by fostering and supporting Drupal projects, marketing Drupal to new users, supporting Drupal infrastructure through events like DrupalCons & DrupalCamps, and a lot more!
