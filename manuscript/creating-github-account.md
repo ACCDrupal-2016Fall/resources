@@ -4,11 +4,11 @@
 
 ## Prerequisites
 
-None
+An email address for account verification.
 
 ## Goals
 
-* Create an account at GitHub.com
+* Create an account at *GitHub.com*
 * Open Git Bash
 * Learn the basics of SSH Keys and Secure Deployment
 * [Generate an SSH Key](https://help.github.com/articles/generating-an-ssh-key/ "Generate an SSH Key")
