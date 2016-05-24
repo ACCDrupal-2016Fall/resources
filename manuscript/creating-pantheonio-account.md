@@ -16,7 +16,7 @@
 ## Creating a [Pantheon.io](https://pantheon.io "Pantheon.io") Account
 
 #### Open any modern web-browser.
-![Modern Browsers](../images/overview-&-development/github/modern-browsers.JPG)
+![Modern Browsers](../images/general/modern-browsers.JPG)
 
 #### Navigate to [Pantheon.io](https://pantheon.io "Pantheon.io")
 ![Navigate to Pantheon.io](../images/overview-&-development/pantheon/pantheon-create-account_1.JPG)

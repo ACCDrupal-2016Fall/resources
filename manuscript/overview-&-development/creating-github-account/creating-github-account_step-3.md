@@ -8,7 +8,7 @@
 ### Adding the SSH Key to [GitHub.com](https://github.com "GitHub.com")
 
 #### Open any modern web-browser.
-![Modern Browsers](../../../images/overview-&-development/github/modern-browsers.JPG)
+![Modern Browsers](../../../images/general/modern-browsers.JPG)
 
 #### Navigate to [GitHub.com](https://github.com "GitHub.com") and Login
 ![Login](../../../images/overview-&-development/github/github-create-account_1.JPG)

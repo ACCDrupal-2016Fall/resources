@@ -14,7 +14,7 @@ An email address for account verification.
 ## Creating a Drupal Community Account
 
 #### Open any modern web-browser.
-![Modern Browsers](../images/overview-&-development/github/modern-browsers.JPG)
+![Modern Browsers](../images/general/modern-browsers.JPG)
 
 #### Navigate to [Drupal.org](https://www.drupal.org "Drupal.org")
 ![Drupal.org Home](../images/overview-&-development/join-drupal/join-drupal_1.JPG)

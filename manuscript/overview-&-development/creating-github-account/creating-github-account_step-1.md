@@ -9,7 +9,7 @@ Creating an account at GitHub.com is only the first step in creating a *useable*
 ### Creating an Account at [GitHub.com](https://github.com "GitHub.com")
 
 #### Open any modern web-browser.
-![Modern Browsers](../../../images/overview-&-development/github/modern-browsers.JPG)
+![Modern Browsers](../../../images/general/modern-browsers.JPG)
 
 #### Navigate to [GitHub.com](https://github.com "GitHub.com")
 ![Navigate to GitHub.com](../../../images/overview-&-development/github/github-browser.JPG)
