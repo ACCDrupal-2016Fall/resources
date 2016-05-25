@@ -1,6 +1,6 @@
 # Creating a BitBucket Account
 
-![Octocat](../../../images/overview-&-development/bitbucket/Octocat.png)
+![BitBucket Logo With Copy](../../../images/overview-&-development/bitbucket/bitbucket_logo_copy-with-logo.png)
 
 
 ## Step 3 - Add the SSH Key to BitBucket
@@ -42,7 +42,7 @@ The ```.pub``` stands for **public** in this instance and will be the file used.
 clip < ~/.ssh/id_rsa.pub
 ```
 
-![Click *Add SSH Key*](../../../images/overview-&-development/bitbucket/bitbucket-create-ssh-key_8a.JPG)
+![Click *Add Key*](../../../images/overview-&-development/bitbucket/bitbucket-create-ssh-key_8.JPG)
 
 If successful, you will see a screen similar to this:
 
