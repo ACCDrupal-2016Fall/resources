@@ -32,7 +32,7 @@
 
 > Example:  ```ACC-Computer_Lab_Seat_5```
 
-![Click *Add SSH Key*](../../../images/overview-&-development/bitbucket/bitbucket-create-ssh-key_7.JPG)
+![Click *Add SSH Key*](../../../images/overview-&-development/bitbucket/bitbucket-create-ssh-key_8.JPG)
 
 ##### Get *Public* SSH Key for bitbucket
 You must have the *right* text to enter into BitBucket. There were two files created with your SSH Key: ```id_rsa``` and ```id_rsa.pub```.
@@ -42,7 +42,7 @@ The ```.pub``` stands for **public** in this instance and will be the file used.
 clip < ~/.ssh/id_rsa.pub
 ```
 
-![Click *Add Key*](../../../images/overview-&-development/bitbucket/bitbucket-create-ssh-key_8.JPG)
+![Click *Add Key*](../../../images/overview-&-development/bitbucket/bitbucket-create-ssh-key_7.JPG)
 
 If successful, you will see a screen similar to this:
 
