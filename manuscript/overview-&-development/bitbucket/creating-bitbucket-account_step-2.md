@@ -1,6 +1,6 @@
 # Creating a BitBucket Account
 
-![BitBucket Mark](../../../images/overview-&-development/bitbucket/bitbucket-Mark-64px.png)
+![BitBucket](../../../images/overview-&-development/bitbucket/bitbucket_Logo.png)
 
 ## Step 2 - Create an SSH Key
 

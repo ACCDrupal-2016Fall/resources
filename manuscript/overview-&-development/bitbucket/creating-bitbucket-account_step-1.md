@@ -1,6 +1,6 @@
 # Creating a Bitbucket Account
 
-![BitBucket](../../../images/overview-&-development/bitbucket/bitbucket_Logo.png)
+![BitBucket](../../../images/overview-&-development/bitbucket/bitbucket_logo.png)
 
 ## Step 1 - Create the Account
 

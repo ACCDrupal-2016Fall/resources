@@ -1,6 +1,6 @@
 # Creating a BitBucket Account
 
-![Octocat](../images/overview-&-development/github/Octocat.png)
+![BitBucket](../images/overview-&-development/bitbucket/atlassian_logo-lockup-5-a.png)
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ An email address for account verification.
 * Create an account at *BitBucket.org*
 * Open Git Bash
 * Learn the basics of SSH Keys and Secure Deployment
-* [Generate an SSH Key](https://help.bitbucket.org/articles/generating-an-ssh-key/ "Generate an SSH Key")
+* [Generate an SSH Key](https://confluence.atlassian.com/bitbucket/set-up-ssh-for-git-728138079.html "Generate an SSH Key")
 * Add SSH Key to your BitBucket Account
 
 
