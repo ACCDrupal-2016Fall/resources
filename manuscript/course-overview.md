@@ -16,30 +16,31 @@ In the past few years, Drupal has grown to become one of the more popular open s
 
 > **Note** Pantheon.io was chosen as the most ideal Platform as a Service (PaaS) company for this course, however alternatives exist. See the Appendix for other hosting options such as Digital Ocean (hosting only), GoDaddy (hosting only), Omega8, and Acquia Cloud.
 
-## Prerequisite Knowledge
-
-All aspiring developers should have:
-* a familiarity with computers and browsing the Internet;
-* Intermediate WWW Authoring knowledge and experience; and,
-* basic HTML and CSS styling & theming knowledge.
-
-Knowledge of command line tools, such as iTerm2 (Mac OS) or the Command Prompt (Windows) is preferred, but in no way required.
-
-Every Challenge exercise will include careful walkthroughs with screenshots and Instructor-led development. The largest requirement is a willingness to learn new concepts and the ability to shrug off errors. Early development in any CMS often results in errors, which is **OKAY**. A full Section is dedicated to Troubleshooting Drupal within the Course. Students are welcome to try Troubleshooting their own issues or contacting their Instructor.
-
 ## Objectives
 
- < Insert this from Syllabus, once finalized >
+* Create web pages and supporting elements using current authoring tools
+* Maintain web pages and supporting elements.
+* Articulate Drupal terminology
+* Describe Drupal’s layer structure
+* Manage, display and create relational content structures
+* Manage the display of content
+* Implement roles, permissions, workflows, and navigations
+* Properly use taxonomy
+* Create, install, and configure modules
+* Effectively work with Drupal’s theme layer
+* Use Drupal theme files, pre-process functions, and sub-themes
+* Use layout building modules (panels, context, display suite)
+* Utilize industry software tools for creating, editing, and debugging
 
 ## Challenge Exercises
 
-Most Sections will contain Challenge Exercises to be completed as proof of concept prior to moving on to other Sections within the Course. Your Instructor will most likely review Challenges as they are completed to ensure maximum understanding.
+As mentioned within [Section 0.7: Prerequisites](manuscript/prerequisites.md), many Sections will contain Challenge Exercises to be completed as proof of concept prior to moving on to other Sections within the Course. Your Instructor will most likely review Challenges as they are completed to ensure maximum understanding.
 
 These Challenges are tasks to be completed on **your** Portfolio Site, however. Students are encouraged to go above and beyond the Challenges, which only on *basic* knowledge for each Section covered. Beginner, Intermediate, and Mastery level knowledge can only come through exploring the possibilities within each task assigned.
 
 ## Summaries
 
-Each Section and Unit will conclude with a Summary describing the key concepts you, as the Student, should have learned prior to moving foward. Make sure each concept with the **Summary** is thoroughly understood before moving to the next Unit or Section.
+Each Section and Unit will conclude with a Summary describing the key concepts you, as the Student, should have learned prior to moving forward. Make sure each concept with the **Summary** is thoroughly understood before moving to the next Unit or Section.
 
 Often, Units and Sections will touch on a **very** broad range of subjects, tools, verbiage, and more from the expansive world of Drupal, Web Authoring, and cross-channel digital experiences. However, to keep things simple, only those topics explicitly discussed within the Summary at the end of each Unit/Section are *must have* knowledge to complete the course.
 

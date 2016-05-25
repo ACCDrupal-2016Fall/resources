@@ -11,6 +11,7 @@
  * [Section 0.4: Course Overview](manuscript/course-overview.md)
  * [Section 0.5: About The Author](manuscript/about-the-authors.md)
  * [Section 0.6: Syllabus](manuscript/syllabus.md)
+ * [Section 0.7: Prerequisites](manuscript/prerequisites.md)
 * [Unit One: Overview & Development](manuscript/overview-and-development.md "Unit One - Overview & Development")
   * [Section 1.1: Introduction](manuscript/introduction.md)   
    * [Section 1.1.0: Early Development](manuscript/early-development.md)

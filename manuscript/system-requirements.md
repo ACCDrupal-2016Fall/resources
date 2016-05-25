@@ -11,18 +11,18 @@ As it is the most **stable** software during the creation of this curriculum, we
 
 ### Items Included Within [Acquia Dev-Desktop](https://www.acquia.com/products-services/dev-desktop "Acquia Dev-Desktop") (from Acquia.com)
 * **Dev Desktop App:** The heart of Dev Desktop, the app lets you manage your local or cloud-based sites, including Drupal multisite, and optionally synchronize them with Acquia Cloud. App updates are checked automatically.
-* **Apache web server:** The world's most popular web server
-* **Percona MySQL database server:** The world's most popular database server
-* **PHP:** Multiple versions of the programming language that powers Drupal
-* **phpMyAdmin:** A popular MySQL management and query tool
-* **XMail Server (Windows only):** An email server that allows your site to send email directly (Mac OS X has this functionality built in)
-
-* **2** Git client for tracking code changes.\
-  We will be using [Git for Windows](https://git-scm.com/download/win "Git for Windows"), which is available from the [Software Freedom Conservancy](https://git-scm.com/sfc "Sofware Freedom Conservancy").
+ * **Apache web server:** The world's most popular web server
+ * **Percona MySQL database server:** The world's most popular database server
+ * **PHP:** Multiple versions of the programming language that powers Drupal
+ * **phpMyAdmin:** A popular MySQL management and query tool
+ * **XMail Server (Windows only):** An email server that allows your site to send email directly (Mac OS X has this functionality built in)
+* **2** Git client for tracking code changes
+ * We will be using [Git for Windows](https://git-scm.com/download/win "Git for Windows"), which is available from the [Software Freedom Conservancy](https://git-scm.com/sfc "Sofware Freedom Conservancy").  
 * **3** SFTP client, such as FileZilla, for transferring files OR rsync
 * **4** Terminus
 * **5** Drush (optional)
 
+> **Note** - The Terminal within the Acquia Dev-Desktop has limited functionality which mimics popular Command Line (CLI) tools found in Mac and Linux systems, but is is *not* a clone of the Linux Kernel-based Terminal.
 
 #### Additional Resources
  * https://pantheon.io/docs/application-containers/
