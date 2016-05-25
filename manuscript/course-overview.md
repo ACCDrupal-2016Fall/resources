@@ -1,18 +1,18 @@
-# {{ book.sections.foreword.course-overview }}
+# Course Overview
 
 ## Rationale
 
-< Insert this from Syllabus, once finalized >
+In the past few years, Drupal has grown to become one of the more popular open source Content Management Systems. From large corporations to universities, organizations are choosing Drupal as their web development platform and enterprise solution. It has widespread adoption because it is written in PHP, is extensible, secure, and counts on an ever growing number of developers that continue to work on improving the software. It is currently used by a variety of popular web sites including higher educational institutions such as University of Texas, Kent State, Ohio State, Harvard, Oxford, Duke and Brown, corporations such as weather.com, Twitter, The Economist, The Grammys, LadyGaga.com and even the White House.
 
 ## Required Material
 
-* An email account,
+* An email account (preferably ending with ```.edu```),
 * Access to the Internet,
 * A Drupal.org Account (*created within the course*)
 * A GitHub (or similar) Account (*created within the course*)
 * A Pantheon.io Account (*created within the course*)
 
-> **Note** Other web-based Git repository hosting services (such as BitBucket, GitLab, Gogs, etc.) may be used. However, the instruction within the course is only for GitHub specific configuration and settings. Other services will have their own individualized instruction for creating accounts, hosting code, and uploading/downloading (*this is called 'pushing/pulling'*) from the servers.
+> **Note** Other web-based Git repository hosting services (such as GitHub, GitLab, Gogs, etc.) may be used. However, the instruction within the course is only for BitBucket specific configuration and settings. Other services will have their own individualized instruction for creating accounts, hosting code, and uploading/downloading (*this is called 'pushing/pulling'*) from the servers.
 
 > **Note** Pantheon.io was chosen as the most ideal Platform as a Service (PaaS) company for this course, however alternatives exist. See the Appendix for other hosting options such as Digital Ocean (hosting only), GoDaddy (hosting only), Omega8, and Acquia Cloud.
 

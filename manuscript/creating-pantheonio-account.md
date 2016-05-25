@@ -1,11 +1,12 @@
 # Creating a [Pantheon.io](https://pantheon.io "Pantheon.io") Account
-![Pantheon Zeus](../images/overview-&-development/pantheon/pantheon-logo-symbol.svg)
+![Pantheon Zeus](../images/overview-&-development/pantheon/pantheon-logo-copy.JPG)
 
 ## Prerequisites
 
 * Git Bash or Git For Windows must be installed.
 * An email address for account verification.
-* SSH Key creation. See [Section 1.1.2: Creating a GitHub Account](manuscript/creating-github-account.md "Section 1.1.2: Creating a GitHub Account")
+* SSH Key creation.
+ * See [Section 1.1.2: Creating a GitHub Account](manuscript/creating-github-account.md "Section 1.1.2: Creating a GitHub Account")
 
 ## Goals
 
