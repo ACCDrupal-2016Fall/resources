@@ -13,6 +13,7 @@
 
 * **Installing the Acquia Dev-Desktop**
  * [Step 1 - Downloading and Installing the Acquia Dev-Desktop](../appendix/installing-acquia-dev-desktop/installing-acquia-dev-desktop_step-1 "Step 1 - Downloading and Installing the Acquia Dev-Desktop")
+ * [Step 2 - Configuring Acquia Dev-Desktop](../appendix/installing-acquia-dev-desktop/installing-acquia-dev-desktop_step-1 "Step 2 - Configuring Acquia Dev-Desktop")
 
 
 ## Further Reading

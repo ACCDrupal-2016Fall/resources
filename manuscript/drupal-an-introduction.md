@@ -6,9 +6,9 @@ My other in-development book has the following quote and I will always stand by 
 
 ## Dries - In the Beginning
 
-*More information can be found < [here](https://www.drupal.org/node/297669 "here") >.*
+*More information can be found [here](https://www.drupal.org/node/297669 "here").*
 
-Though *officially* 15 years of, during the creation of this curriculum, the software which would later **become** Drupal was first created by Founder Dries Buytaert some time in 1998, almost "by accident". As a college student at the University of Ghent, Dries felt the need for a more solid (and reliable) Message Board not plagued by the spam-content of sites like MySpace.com or LiveJournal.com.
+Though *officially* 15 years of age, during the creation of this curriculum, the software which would later **become** Drupal was first created by Founder Dries Buytaert some time in 1998, almost "by accident". As a college student at the University of Ghent, Dries felt the need for a more solid (and reliable) Message Board not plagued by the spam-content of sites like MySpace.com or LiveJournal.com.
 
 This "Message Board" gained Dries a lot of interest and feature requests over the next few years, until he decided to create the Open Source Software "Drupal" was born based on the name of the first *online* site powered by Drupal: Drop.org.
 

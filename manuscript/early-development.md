@@ -1,4 +1,4 @@
-# {{ book.sections.overview.early-development }}
+# Early Development
 
 Authoring a project in any modern CMS begins with the tools chosen to author it *with*.
 
@@ -14,24 +14,27 @@ Because the Open Source Community continually improves on everything within itse
 
 ### Here are a few examples of tools that can make a new Web Author's life a little easier in Drupal:
 #### That are mostly used only for Drupal
-* [Kalabox](http://www.kalabox.io/ "Kalabox") - Push-click installation of local Backdrop, Drupal 7, Drupal 8, and/or Wordpress installations. A fairly slick tool for scaffolding, building, and creating web systems without the massive complexity involved with the typical Development Process that has existed until recent years.
-* [Jeff Geerling's](http://jeffgeerling.com/ "Jeff Geerling's Website") [Drupal VM](http://www.drupalvm.com "Drupal VM"),
-* [Moshe Weitzman's](https://www.drupal.org/u/moshe-weitzman "Moshe Weitzman's Website") [Drush](https://github.com/drush-ops/drush "Drush"),
-* [Dmytro Danylevskyi's](http://dmytro.danylevskyi.com/ "Dmytro Danylevskyi's Website") [Vagrant Drupal Development](http://www.drupalvm.com "Vagrant Drupal Development") platform,
-* [Acquia's](https://www.acquia.com/ "Acquia's Website") [Acquia Dev Desktop](https://www.acquia.com/downloads "Acquia Dev Desktop"),
-* [Phase 2's](https://www.phase2technology.com "Phase 2's Website") [DevTools.io](http://phase2.github.io/devtools/ "DevTools.io"),
-* [Four Kitchens'](http://fourkitchens.com/ "Four Kitchens") [Aquifer.io](http://aquifer.io/ "DevTools CLI"),
-* [Pantheon.io](https://pantheon.io/ "Pantheon.io'"),
-* [Pantheon.io's](https://pantheon.io/ "Pantheon.io'") [Terminus CLI](https://pantheon.io/docs/terminus/ "Terminus CLI"),
-* [Drupal Console](https://drupalconsole.com/ "Drupal Console"),
- * and many others...
+* Virtual Machine (VM) Tools:
+    * [Kalabox](http://www.kalabox.io/ "Kalabox") - Push-click installation of local Backdrop, Drupal 7, Drupal 8, and/or Wordpress installations. A fairly slick tool for scaffolding, building, and creating web systems without the massive complexity involved with the typical Development Process that has existed until recent years.
+    * [Jeff Geerling's](http://jeffgeerling.com/ "Jeff Geerling's Website") [Drupal VM](http://www.drupalvm.com "Drupal VM") - A not-quite Push-click Virtual Machine builder which supports Drupal 7.x and Drupal 8.x out of the box, but can be configured/extended to support almost **any** Stack-based local development environment such as Apache/nginx, PHP 5.5/5.6/7.0, and beyond.
+    * [Dmytro Danylevskyi's](http://dmytro.danylevskyi.com/ "Dmytro Danylevskyi's Website") [Vagrant Drupal Development](http://www.drupalvm.com "Vagrant Drupal Development") platform,
+    * [Acquia's](https://www.acquia.com/ "Acquia's Website") [Acquia Dev Desktop](https://www.acquia.com/downloads "Acquia Dev Desktop"),
+* Development Tools
+    * [Phase 2's](https://www.phase2technology.com "Phase 2's Website") [DevTools.io](http://phase2.github.io/devtools/ "DevTools.io"),
+    * [Moshe Weitzman's](https://www.drupal.org/u/moshe-weitzman "Moshe Weitzman's Website") [Drush](https://github.com/drush-ops/drush "Drush"),
+    * [Four Kitchens'](http://fourkitchens.com/ "Four Kitchens") [Aquifer.io](http://aquifer.io/ "DevTools CLI"),
+    * [Pantheon.io's](https://pantheon.io/ "Pantheon.io'") [Terminus CLI](https://pantheon.io/docs/terminus/ "Terminus CLI"),
+    * [Drupal Console](https://drupalconsole.com/ "Drupal Console"),
+* Hosting Platforms
+    * [Pantheon.io](https://pantheon.io/ "Pantheon.io"),
+    * [Acquia Cloud](https://www.acquia.com/products-services/acquia-cloud "Acquia Cloud"),
+* and many, **man** others...
 
 ## Modern Drupal 7 Web Authoring
 
 For the workflow in *this* book, we will be using only the following tools, with careful work instructions (so don't get overwhelmed!).
 
-* [Kalabox](http://www.kalabox.io/ "Kalabox") *(or Geerling's Drupal VM)*
-* [Jeff Geerling's](http://jeffgeerling.com/ "Jeff Geerling's Website") [Drupal VM](http://www.drupalvm.com "Drupal VM"),
+* [Acquia's](https://www.acquia.com/ "Acquia's Website") [Acquia Dev Desktop](https://www.acquia.com/downloads "Acquia Dev Desktop"),
 * [Moshe Weitzman's](https://www.drupal.org/u/moshe-weitzman "Moshe Weitzman's Website") [Drush](https://github.com/drush-ops/drush "Drush"),
 * [Pantheon.io](https://pantheon.io/ "Pantheon.io'"),
 * [GitHub](https://github.com/ "GitHub"),

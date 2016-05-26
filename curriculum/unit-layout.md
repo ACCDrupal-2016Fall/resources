@@ -1,5 +1,9 @@
 # Unit Layout Format
 
+## Unit Description
+
+
+
 ## Unit Num: Unit Title
 
 * Week Num: Title
@@ -10,7 +14,3 @@
   * Section Num.*n*: Section Title
   * Unit Num: Summary
   * Unit Num: Further Reading (*Aggregated from all Sections*)
-
-
-
-

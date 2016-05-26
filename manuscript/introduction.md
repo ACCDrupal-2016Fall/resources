@@ -27,16 +27,10 @@ The most popular themes, for example, all have a heavy focus on maintaining a mo
 
 With thousands of code contributors making updates, changes, and security fixes to Drupal every day, you can be assured in choosing a well-supported (and well documented) web-application platform for creating your website.
 
-> I will predicate the previous two statements with an acknowledgement that it depends on each individual Developer to ensure Accessibility and other similar standards are maintained. Drupal Community resources, such as the [Omega Theme](https://www.drupal.org/project/omega "Omega Theme") or the [Zen Theme](https://www.drupal.org/project/zen "Zen Theme") (which we use in this course), come with Mobile-first and Accessibility-first design focuses baked in, but not **all** of the available Drupal extensions are so well maintained. 
+> I will predicate the previous two statements with an acknowledgement that it depends on each individual Developer to ensure Accessibility and other similar standards are maintained. Drupal Community resources, such as the [Omega Theme](https://www.drupal.org/project/omega "Omega Theme") or the [Zen Theme](https://www.drupal.org/project/zen "Zen Theme") (which we use in this course), come with Mobile-first and Accessibility-first design focuses baked in, but not **all** of the available Drupal extensions are so well maintained.
 
 Because Drupal is highly extensible and highly configurable, the best method for learning how to make a website with Drupal is a hands-on learning experience. Multiple scenarios, from building a generic blog to creating a fully-featured online store where *you*, the Site Owner, can sell your own products (or services) should be explored to understand the powerful tools at your disposal. This book will teach the reader basic to intermediate Drupal knowledge with screenshots, example code, user-exercises, small quizzes, and meticulous walkthroughs.
 
 By the end of this book, *you*, the Student, will have created multiple Drupal websites using the most modern methods for efficiency, accessibility, and mobile-ready design. The book will take everything a step further by walking you through common tips and tricks for local development, Configuration Management (aka: making your local changes appear on the server), deployment (moving your local site to a Development Server and from Development to the Test Server, then the Live Server), and more.
 
 Before using the most powerful *features* of Drupal however, you must first gain access to some of the most powerful _tools_ for Drupal. See **[Early Development](manuscript/early-development.md "Early Development")** to learn about what accounts you should create before starting this journey.
-
-Chapter 1:
-  -- Creating an account on Drupal.org
-    -- Consider joining the Drupal Association
-  -- Creating an account at Pantheon.io
-  -- Creating an account at GitHub.org
