@@ -1,6 +1,6 @@
 # Content Management Systems
 
-## Why A CMS?
+## A Little History
 
 In earliest iterations, HTML was simply a method of *linking* different documents together for collaboration.
 
@@ -8,6 +8,18 @@ To give a point of reference, look to the ```<a>``` tag used in linking between 
 
 The name **anchor** follows the *nautical* theme behind "Navigation" and the tag has never truly been updated since, despite being more *accurately* named the "link" tag.
 
+## Why A CMS?
+
+### The Stack
+
+| **The Stack**  | LAMP   | LEMP   | MEAN (As a point of reference, only)   |
+| :--- | :--- | :--- | :--- |
+| Operating System  | Linux   | Linux   | Linux, Windows   |
+| Database  | MySQL, MariaDB, InnoDB, PostgreSQL, SQLite, Microsoft SQL Server, Oracle, MongoDB. *Basically, anything running SQL... to a point.*   | MariaDB, MySQL   | MongoDB   |
+| Backend Language  | PHP, TWIG   | PHP, TWIG   | JavaScript (Node.js)   |
+| Web Server  | Apache, nginx   | LEMP   | JavaScript (Node.js)   |
+| CMS  | Drupal, Wordpress, Backdrop   | Drupal, Wordpress, Backdrop   | (JavaScript) Express   |
+| Frontend Language  | HTML, CSS, JavaScript, etc.   | LEMP   | (JavaScript) Angularjs   |
 
 ## Further Reading
 * [Pantheon - The History of Website Development](https://pantheon.io/sites/default/files/History-of-Website-Development-Infographic_0.png "Pantheon - The History of Website Development")
