@@ -40,6 +40,12 @@ Because of the need for *context*, at least two pieces of *data* are needed to c
 
 As Content and Fields are two vital parts of the Drupal framework, we will be exploring the two items in a little more detail further on in the course.
 
+In the interest of throwing in some random Drupal specific knowledge though, here's a very specific quote that you should understand well by the end of the course:
+
+> A *Page* is a **Bundle** of the *Node* Entity **Type**.
+
+Data can be confusing, yes? This is why we like letting computers handle large portions of it for us.
+
 ### Why Should You Use a CMS?
 
 > Build systems, not pages.

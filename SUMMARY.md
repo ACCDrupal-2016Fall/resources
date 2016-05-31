@@ -24,8 +24,11 @@
     * [Section 1.6: Drupal - An Introduction](manuscript/drupal-an-introduction.md "Drupal - An Introduction")
     * [Section 1.7: System Requirements](manuscript/system-requirements.md)
     * [Section 1.8: The Workflow](manuscript/the-workflow.md)
-    * [Section 1.9: Content Management Systems](manuscript/content-management-systems.md "Content Management Systems")        
-* [Unit Two: Development]
+* [Unit Two: Development](manuscript/development.md "Unit Two: Development")
+    * [Section 2.1: Content Management Systems](manuscript/content-management-systems.md "Content Management Systems")
+    * [Section 2.2: Content Management Systems](manuscript/content-management-systems.md "Content Management Systems")
+    * [Section 2.3: Creating Your First Site](manuscript/creating-a-site.md "Creating Your First Site")
+            * [Section 2.3.1: Creating Your First Site - Step 1](manuscript/creating-a-site/creating-a-site_1.md "Creating Your First Site - Step 1")
 * [Appendix](appendix/appendix.md)
         * [Section 1.1 Git Cheat Sheet](appendix/git-cheat-sheet.md)
         * [Section 1.2 Creating a GitHub Account](manuscript/creating-github-account.md)
