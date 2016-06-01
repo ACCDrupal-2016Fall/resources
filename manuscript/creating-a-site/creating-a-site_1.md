@@ -1,14 +1,14 @@
 # Creating A Site
 
-![Create New Site](../../../images/creating-a-site/creating-a-site_1.JPG)
+![Create New Site](../../images/creating-a-site/creating-a-site_1.JPG)
 
 ## Step 1
 
 ### Navigate to Pantheon.io Dashboard
-![Create New Site](../../../images/creating-a-site/creating-a-site_2.JPG)
+![Create New Site](../../images/creating-a-site/creating-a-site_2.JPG)
 
 ### Click **+ Create New Site**
-![Create New Site](../../../images/creating-a-site/creating-a-site_1.JPG)
+![Create New Site](../../images/creating-a-site/creating-a-site_1.JPG)
 
 ### Enter a Name
 This site name will be registered under multiple places, unless you've chosen a paid plan:
