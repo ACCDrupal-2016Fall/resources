@@ -24,3 +24,11 @@ Each Unit should *preferably* address a separate item on the Syllabus.
   * Foreword
   * Introduction
   * Overview
+
+
+### Tables
+
+| Header_1  | Header_2  | Header_3   | Header_4  |
+| :-------------: |:-------------:| :-----:|:--: |
+| Header_1_Row_1  | Header_2_Row_1  | Header_3_Row_1   | Header_4_Row_1  |
+| Header_1_Row_2  | Header_2_Row_2  | Header_3_Row_2   | Header_4_Row_2  |

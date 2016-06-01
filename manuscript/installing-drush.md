@@ -8,14 +8,14 @@ Downloading a module may only be something you do once during installation, but 
 ### To Install using the Graphic User Interface (GUI) method, a user would:
 
 ##### Find the FTP/URL link for the desired Module
-##### Navigate to the **Modules** (*https://mysite.com/admin/modules*) link
-##### Click **Install new module** (*https://mysite.com/admin/modules/install*)
+##### Navigate to the **Modules** (*https://mysite.pantheon.io/admin/modules*) link
+##### Click **Install new module** (*https://mysite.pantheon.io/admin/modules/install*)
 ##### Paste the link (if FTP access is available)
 
 ### To update, the same user
 
 #### If FTP Access is Available
-##### Navigate to the **Available updates** (*https://mysite.com/admin/reports/updates/update*) link.
+##### Navigate to the **Available updates** (*https://mysite.pantheon.io/admin/reports/updates/update*) link.
 ##### Click the HTML Check-Boxes for each module in need of updating
 ##### Click **Download these updates**
 
@@ -45,7 +45,7 @@ For Pantheon.io users, **SFTP** must first be enabled in order for *Update.php* 
 ##### Navigate to the module in need of an update in ```/sites``` folder.
 ##### Delete the old module folder.
 ##### Unzip the new module folder.
-##### Run update.php (*https://mysite.com/update.php*)
+##### Run update.php (*https://mysite.pantheon.io/update.php*)
 **See above**
 ![Install Updates](../../../images/appendix/updates/ftp-update-1.JPG)
 

@@ -1,6 +1,6 @@
 # Introduction
 
-After decades of growth as an industry, there are now many point-and-click web-based applications that remove the need for some (any in many cases *any*) HTML knowledge, CSS knowledge, Linux, servers, or databases. Hosting companies even provide the installation using a model called Software as a Service (SasS), where the hosting company not only hosts, but installs, configures, and updates all of the related software as well.
+After decades of growth as an industry, there are now many point-and-click web-based applications and web publishing systems that remove the need for some (any in many cases *any*) HTML knowledge, CSS knowledge, Linux, servers, or databases. Hosting companies even provide the installation using a model called Software as a Service (SasS), where the hosting company not only hosts, but installs, configures, and updates all of the related software as well.
 
 The software offered is as varied as the hosting companies. A new user could choose HostGator and Wordpress or GoDaddy and Drupal, both supporting point-click-install solutions, each with their own Pros and Cons for installation, cost, configuration, and Return on Investment (ROI). Unfortunately, for the new-coming consumer or aspiring Developer, there are literally dozens of Open Source and proprietary CMS applications for hundreds of different business needs and user needs.
 
