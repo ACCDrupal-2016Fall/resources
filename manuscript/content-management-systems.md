@@ -46,33 +46,6 @@ In the interest of throwing in some random Drupal specific knowledge though, her
 
 Data can be confusing, yes? This is why we like letting computers handle large portions of it for us.
 
-### Why Should You Use a CMS?
-
-> Build systems, not pages.
-
-> ~~ Brad Frost, Pattern Lab
-
-As stated, within a CMS, it is not the **webpages** that are being managed.
-
-Instead, the system keeps track of a whole bunch of little pieces, which are added together in order to make bigger pieces, which are, in turn, added together to make even bigger pieces.
-
-This is one half of why you hear the phrase about building 'systems' instead of 'pages'. When learning basic HTML and CSS, you worked on manually building *pages* yourself. Within a CMS, you instead build *templates* so that the *pages* are built for you.
-
-### The Stack
-
-There are many *Stacks* in the Web Authoring world.
-
-The LAMP Stack, the Development Stack, the Drupal Stack, and many more.
-
-| **The Stack**  | LAMP   | LEMP   | MEAN (As a point of reference, only)   |
-| :--- | :--- | :--- | :--- |
-| Operating System  | Linux   | Linux   | Linux, Windows   |
-| Database  | MySQL, MariaDB, InnoDB, PostgreSQL, SQLite, Microsoft SQL Server, Oracle, MongoDB. *Basically, anything running SQL... to a point.*   | MariaDB, MySQL   | MongoDB   |
-| Backend Language  | PHP, TWIG   | PHP, TWIG   | JavaScript (Node.js)   |
-| Web Server  | Apache, nginx   | LEMP   | JavaScript (Node.js)   |
-| CMS  | Drupal, Wordpress, Backdrop   | Drupal, Wordpress, Backdrop   | (JavaScript) Express   |
-| Frontend Language  | HTML, CSS, JavaScript, etc.   | HTML, CSS, JavaScript, etc.   | HTML, CSS, JavaScript, (JavaScript) Angularjs, etc.   |
-
 ## Further Reading
 * [Pantheon - The History of Website Development](https://pantheon.io/sites/default/files/History-of-Website-Development-Infographic_0.png "Pantheon - The History of Website Development")
 * [Pantheon - The Drupal Developer’s Road to Server Hell](https://pantheon.io/sites/default/files/Pantheon-Drupal-Developers-Road-to-Server-Hell-Infographic.jpg "Pantheon - The Drupal Developer’s Road to Server Hell")

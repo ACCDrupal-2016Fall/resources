@@ -1,7 +1,7 @@
-# Unit One: Unit Overview
+# Unit One: Preparing Your Development Environment
 
 * Week One: Overview & Development
-    * Unit One: Unit Overview
+    * Unit One: Preparing Your Development Environment
         * Section One: Introduction
         * Section Two: Overview
         * Section Num.3: Section Title
