@@ -15,6 +15,27 @@ Despite mostly being open source projects, the tools used within this class are 
 
 As stated, the tools, methodologies (methods), design approach, and application structures learned within this class can be taken far, far beyond Drupal.
 
+## Software
+
+Your classroom computers should already have the required software installed.
+
+Here is the software we will be using in this course:
+* **A Full Featured Text-Editor:**
+  * Atom.io
+* **A Full Featured Integrated Development Environment (IDE)**
+  * PHPStorm (Free for one yrs registration per User with a .edu email addy)
+* **A Git Client**
+  * Git Bash / Git for Windows
+* **Drupal Web Hosting Service**
+  * [Pantheon.io](https://pantheon.io/ "Pantheon.io'")
+* **Git Hosting Service**
+  * [BitBucket.org](https://bitbucket.org "BitBucket.org") (Hosted Service [unlimited free repos for accounts registered with .edu emails])
+* **Drupal Development's Local Server Toolkit**
+  * [Acquia's](https://www.acquia.com/ "Acquia's Website") [Acquia Dev Desktop](https://www.acquia.com/downloads "Acquia Dev Desktop")
+    * [Moshe Weitzman's](https://www.drupal.org/u/moshe-weitzman "Moshe Weitzman's Website") [Drush](https://github.com/drush-ops/drush "Drush") (Built in)
+
+In the next few sections, we will walk slowly through creating an account and logging in with BitBucket, Pantheon, and Drupal.org, followed by configuring Acquia Dev-Desktop with a Pantheon.io Drupal 7 instance for local development.
+
 ## Challenges
 
 Every Challenge exercise will include careful walkthroughs with screenshots and Instructor-led development.

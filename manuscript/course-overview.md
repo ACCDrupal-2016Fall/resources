@@ -46,6 +46,6 @@ Often, Units and Sections will touch on a **very** broad range of subjects, tool
 
 ## Further Readings
 
-Each Section and Unit will contain links to external resources such as _[Drupal.org](http://drupal.org "Drupal.org") projects (themes, modules, distros, etc.), Development Tools (Kalabox, Drupal VM, Acquia Dev Desktop, etc.), and other tools.
+Each Section and Unit will contain links to external resources such as [Drupal.org](http://drupal.org "Drupal.org") projects (themes, modules, distros, etc.), Development Tools (Kalabox, Drupal VM, Acquia Dev Desktop, etc.), and other tools.
 
 Some of these resources and tools will be explored throughout the course, but not all. Feel free to explore the world of Drupal. There are over seven thousand modules for Drupal, so make sure you find the best tool for **you**.

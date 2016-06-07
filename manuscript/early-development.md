@@ -19,6 +19,7 @@ Because the Open Source Community continually improves on everything within itse
     * [Jeff Geerling's](http://jeffgeerling.com/ "Jeff Geerling's Website") [Drupal VM](http://www.drupalvm.com "Drupal VM") - A not-quite Push-click Virtual Machine builder which supports Drupal 7.x and Drupal 8.x out of the box, but can be configured/extended to support almost **any** Stack-based local development environment such as Apache/nginx, PHP 5.5/5.6/7.0, and beyond.
     * [Dmytro Danylevskyi's](http://dmytro.danylevskyi.com/ "Dmytro Danylevskyi's Website") [Vagrant Drupal Development](http://www.drupalvm.com "Vagrant Drupal Development") platform,
     * [Acquia's](https://www.acquia.com/ "Acquia's Website") [Acquia Dev Desktop](https://www.acquia.com/downloads "Acquia Dev Desktop"),
+    * [Blink Reaction's](https://github.com/blinkreaction "Blink Reaction's") [Drude](https://github.com/blinkreaction "Drude") - An offshoot of the boo2docker-vagrant-box that has been specifically configured for *Drupal*-based development gaining ground in the DevOps industry because it uses Docker's Container System.
 * Development Tools
     * [Phase 2's](https://www.phase2technology.com "Phase 2's Website") [DevTools.io](http://phase2.github.io/devtools/ "DevTools.io"),
     * [Moshe Weitzman's](https://www.drupal.org/u/moshe-weitzman "Moshe Weitzman's Website") [Drush](https://github.com/drush-ops/drush "Drush"),
@@ -29,18 +30,3 @@ Because the Open Source Community continually improves on everything within itse
     * [Pantheon.io](https://pantheon.io/ "Pantheon.io"),
     * [Acquia Cloud](https://www.acquia.com/products-services/acquia-cloud "Acquia Cloud"),
 * and many, **man** others...
-
-## Modern Drupal 7 Web Authoring
-
-For the workflow in *this* book, we will be using only the following tools, with careful work instructions (so don't get overwhelmed!).
-
-* [Acquia's](https://www.acquia.com/ "Acquia's Website") [Acquia Dev Desktop](https://www.acquia.com/downloads "Acquia Dev Desktop"),
-* [Moshe Weitzman's](https://www.drupal.org/u/moshe-weitzman "Moshe Weitzman's Website") [Drush](https://github.com/drush-ops/drush "Drush"),
-* [Pantheon.io](https://pantheon.io/ "Pantheon.io'"),
-* [GitHub](https://github.com/ "GitHub"),
-* a text editor of your choice, and,
-* an IDE of your choice.
-
-In the next few sections, we will walk slowly through creating an account and logging in with GitHub, Pantheon, and Drupal.org, followed by downloading and installing either Kalabox or Drupal VM for local development.
-
-Kalabox allows for a faster and more efficient development time, but Drupal VM is infinitely more extensible (modular), though only when using Ansible on either Mac OSX or Linux boxes. We will be using Kalabox within this book primarily however because it is fully cross-compatible on **all** systems, Windows included.
