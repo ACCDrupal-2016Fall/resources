@@ -38,17 +38,33 @@
     * [Section 2.1: *Static* vs. *Dynamic* - Why Use A CMS?](manuscript/why-use-a-cms.md "Why Use A CMS?")
     * [Section 2.2: The Drupal Stack](manuscript/the-drupal-stack.md "Section 2.2: The Drupal Stack")
     * [Section 2.3: Drupal Core Basics](manuscript/drupal-core-basics.md "Drupal Core Basics")
-        * Users and Permissions
-        * Nodes
-        * Blocks
-        * Menus
-        * Other basic Drupal Core Tools
+        * Section 2.3.1: Users and Permissions
+        * Section 2.3.2: Nodes
+        * Section 2.3.3: Blocks
+        * Section 2.3.4: Menus
+        * Section 2.3.5: Other basic Drupal Core Tools
+    * Section 2.4: Challenge! : Configuring xxxxx ...?
     * [Unit Two: Summary](manuscript/summary-unit-2.md "Unit Two: Summary")
 * [Unit Three: Drupal Layout & Themes](manuscript/unit-3-layout-themes.md "Unit Three: Drupal Layout & Themes")
+    * Section 3.1: Design Systems - Pattern Labs & 'Mini Bootstraps'
+    * Section 3.2: Responsive Web Design
+    * Section 3.3: The Drupal Theme Engine
+    * Section 3.4: Overriding Themes **Should this be 'Subtheming' instead?**
+    * Section 3.5: Understanding Style Sheets, CSS **Should this be AFTER Subtheming?**
+    * Section 3.6: Challenge! : Be Zen!
     * [Unit Three: Summary](manuscript/summary-unit-3.md "Unit Three: Summary")
 * [Unit Four: Panels, Display Suite, & Context](manuscript/unit-4-panels-display-context.md "Unit Four: Panels, Display Suite, & Context")
+    * Section 4.1: Introduction to Panels
+    * Section 4.2: Creation Drupal Sites with Panels
+    * Section 4.3: Panel Variants, Views Displays
+    * Section 4.4: Panels for Forms
+    * Section 4.5: Understanding the Panalizer & Display Suite Modules
     * [Unit Four: Summary](manuscript/summary-unit-4.md "Unit Four: Summary")
 * [Unit Five: Modules](manuscript/unit-5-modules.md "Unit Five: Modules")
+    * Section 5.1: Drupal Framework
+    * Section 5.2: Contribution Modules
+    * Section 5.3: Creating Modules
+    * Section 5.4: Distributions & Profiles
     * [Unit Five: Summary](manuscript/summary-unit-5.md "Unit Five: Summary")
 * [Unit Six: Troubleshooting](manuscript/unit-6-troubleshooting.md "Unit Six: Troubleshooting")
     * Section 6.1: Security Considerations

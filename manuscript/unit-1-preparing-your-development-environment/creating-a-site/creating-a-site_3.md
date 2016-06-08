@@ -1,6 +1,6 @@
 # Creating Your First Site
 
-![Powered by Drupal](../../images/creating-a-site/creating-a-site_3-1.JPG)
+![Powered by Drupal](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_3-1.JPG)
 
 
 ## Step 3 - Visit Your New Site

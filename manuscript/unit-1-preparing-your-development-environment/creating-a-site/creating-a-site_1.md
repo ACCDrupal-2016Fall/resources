@@ -1,17 +1,17 @@
 # Creating Your First Site
 
-![Create New Site](../../images/creating-a-site/creating-a-site_1.JPG)
+![Create New Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.JPG)
 
 ## Step 1 - Creating A Site
 
 ### Navigate to Pantheon.io Dashboard
-![Create New Site](../../images/creating-a-site/creating-a-site_2.JPG)
+![Create New Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_2.JPG)
 
 ### Click **+ Create New Site**
-![Create New Site](../../images/creating-a-site/creating-a-site_1.JPG)
+![Create New Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.JPG)
 
 ### Name Your Drupal Site
-![Create New Site](../../images/creating-a-site/creating-a-site_3.JPG)
+![Create New Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_3.JPG)
 This site name will be registered under multiple places (unless you've chosen a paid plan, where options become available):
 
 * dev-yoursite.pantheon.io
@@ -19,7 +19,7 @@ This site name will be registered under multiple places (unless you've chosen a 
 * yoursite.pantheon.io
 
 Enter the name of your chosen site and click *Create Site*.
-![Create New Site](../../images/creating-a-site/creating-a-site_4.JPG)
+![Create New Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_4.JPG)
 
 > **Reminder** - For the rest of this course, "*your*" site will be referred to as "*https://mysite.pantheon.io*".
 
@@ -31,10 +31,10 @@ That's correct. If you are willing to keep your site under a Pantheon.io URL, yo
 
 ### Configure Your Site
 From the Site Configuration page, select *Start from Scratch* as we will be creating a fresh Drupal 7 installation for this site.
-![Start from Scratch](../../images/creating-a-site/creating-a-site_5.JPG)
+![Start from Scratch](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_5.JPG)
 
 For your Portfolio Project, select the *Drupal 7* clean instance and Click *Install Drupal 7*:
-![Drupal 7](../../images/creating-a-site/creating-a-site_5b.JPG)
+![Drupal 7](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_5b.JPG)
 
 Savvy users will notice that Pantheon allows for many options beyond the Cookie Cutter Wordpress, Drupal 7, or Drupal 8. See the Further Reading for links to the different options for site creation, such as [CiviCRM](https://civicrm.org/ "CiviCRM"), [Commerce Kickstart](https://drupalcommerce.org/commerce-kickstart-2 "Commerce Kickstart"), and [Open Atrium](http://www.openatrium.com/#!/ "Open Atrium"). These are called **Distributions** and are one of the options for installing Drupal.
 
@@ -42,14 +42,14 @@ Savvy users will notice that Pantheon allows for many options beyond the Cookie 
 
 Just like all things within Drupal, even the **Distributions** are **Modular**. [Panopoly](http://drupal.org/project/panopoly "Panopoly"), for example, is a popular distribution for *creating* distributions because it allows for efficient container/node/content-type scaffolding with much less custom PHP on the part of the Site Builder. [Open Academy](https://drupal.org/project/openacademy "Open Academy"), [Open Atrium](http://www.openatrium.com/#!/ "Open Atrium"), [Open Church](https://drupal.org/project/openchurch "Open Church"), [Open Restaurant](https://drupal.org/project/restaurant "Open Restaurant"), and the [Web Experience Toolkit](https://drupal.org/project/wetkit "Web Experience Toolkit") (and more!) all use [Panopoly](http://drupal.org/project/panopoly "Panopoly") as the "base distribution" for *their* distribution.
 
-![Distributions](../../images/creating-a-site/creating-a-site_5a.JPG)
+![Distributions](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_5a.JPG)
 
 #### Pantheon Does the Legwork!
 Part of the reason for using Pantheon.io, the Acquia Dev-Desktop, Kalabox, and other turn-key solutions is the fact that *they do all the work* of installation and configuration. This allows Web Authors/Developers to focus on the important parts of web creation: Your Content!
-![Creating Site](../../images/creating-a-site/creating-a-site_5c.JPG)
+![Creating Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_5c.JPG)
 
 ### When the site finishes loading, Click *Visit your Pantheon Dashboard*
-![Visit Your Pantheon Dashboard](../../images/creating-a-site/creating-a-site_6.JPG)
+![Visit Your Pantheon Dashboard](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_6.JPG)
 
 
 ### Congratulations!

@@ -3,13 +3,13 @@
 ## Step 2 - Installing Your First Site
 
 ### Navigate to Pantheon.io Dashboard
-![MySite.Pantheon.io](../../images/creating-a-site/creating-a-site_2-1.JPG)
+![MySite.Pantheon.io](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_2-1.JPG)
 
 ### Click **Your Site**
-![Create New Site](../../images/creating-a-site/creating-a-site_2-2.JPG)
+![Create New Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_2-2.JPG)
 
 ### Click *Visit Development Site*
-![Visit Development Site](../../images/creating-a-site/creating-a-site_2-3.JPG)
+![Visit Development Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_2-3.JPG)
 
 ### Configure Your Site
 
@@ -18,7 +18,7 @@ The profile has already been chosen through Pantheon.io's "Upstream" repository 
 
 > **Note** - If choosing one of the other Distributions, multiple Installation Profiles may be available.
 
-![Choose Profile](../../images/creating-a-site/creating-a-site_2-4.JPG)
+![Choose Profile](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_2-4.JPG)
 
 #### Choose Language
 Drupal has *extensive* Multilingual support for Site Administration **and** content generation. Students are encouraged to explore multilingual possibilities under their own initiatives.
@@ -47,7 +47,7 @@ As a reminder, this was chosen through Pantheon's Site Creation tool, which is n
 Because of this, Pantheon skips straight through and installs the chosen profile, including all required modules!
 
 #### Configure Site
-![Configure Site](../../images/creating-a-site/creating-a-site_2-5.JPG)
+![Configure Site](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_2-5.JPG)
 
 | **Enter the Following:**  |
 | :-------------: |:-------------:|
@@ -66,7 +66,7 @@ Because of this, Pantheon skips straight through and installs the chosen profile
 | Receive e-mail notifications  | This question is for the *Site e-mail address* and will only sent out email such as Security Update notices, Site Issues, etc.  |
 
 ### Congratulations, you installed Drupal!
-![Congratulations, you installed Drupal](../../images/creating-a-site/creating-a-site_2-6.JPG)
+![Congratulations, you installed Drupal](../../images/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_2-6.JPG)
 You have successfully *created* Your First Site!
 
 Now, let's *Visit your new site*!
