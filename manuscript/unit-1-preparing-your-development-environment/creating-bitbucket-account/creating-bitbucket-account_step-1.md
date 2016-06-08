@@ -1,6 +1,6 @@
 # Creating a Bitbucket Account
 
-![BitBucket](../../../images/overview-&-development/bitbucket/bitbucket_logo.png)
+![BitBucket](../../../images/unit-1-preparing-your-development-environment/bitbucket/bitbucket_logo.png)
 
 ## Step 1 - Create the Account
 
@@ -14,22 +14,22 @@ Once your join the Team managed by your Instructor, however, it will provide you
 ![Modern Browsers](../../../images/general/modern-browsers.JPG)
 
 #### Navigate to [BitBucket.org](https://bitbucket.org "BitBucket.org")
-![Navigate to bitbucket.org](../../../images/overview-&-development/bitbucket/bitbucket-browser.JPG)
+![Navigate to bitbucket.org](../../../images/unit-1-preparing-your-development-environment/bitbucket/bitbucket-browser.JPG)
 
 #### Click the green *Get Started* button at the center or top-right of the screen.
-![Click Sign Up](../../../images/overview-&-development/bitbucket/bitbucket-create-account_1.JPG)
+![Click Sign Up](../../../images/unit-1-preparing-your-development-environment/bitbucket/bitbucket-create-account_1.JPG)
 
 #### Enter email and click *Continue*.
 > **Note** - To take advantage of all the tools and learning opportunities within this course, you must register with a ```.edu``` email address.
 
 #### Enter Details and Click *Continue*
-![Click Continue](../../../images/overview-&-development/bitbucket/bitbucket-create-account_2.JPG)
+![Click Continue](../../../images/unit-1-preparing-your-development-environment/bitbucket/bitbucket-create-account_2.JPG)
 
 
 #### Check your inbox to verify your email.
-![Verify Email](../../../images/overview-&-development/bitbucket/bitbucket-create-account_3.JPG)
+![Verify Email](../../../images/unit-1-preparing-your-development-environment/bitbucket/bitbucket-create-account_3.JPG)
 > Once you verify your email, also send your Instructor an email with your BitBucket account name so that you can be added to the class Team.
 
 > This gives access to all of the Team Repositories and Projects.
 
-![BitBucket Home](../../../images/overview-&-development/bitbucket/bitbucket-create-account_4.JPG)
+![BitBucket Home](../../../images/unit-1-preparing-your-development-environment/bitbucket/bitbucket-create-account_4.JPG)

@@ -1,6 +1,6 @@
 # Creating a BitBucket Account
 
-![BitBucket](../images/overview-&-development/bitbucket/atlassian_logo-lockup-5-a.png)
+![BitBucket](../images/unit-1-preparing-your-development-environment/bitbucket/atlassian_logo-lockup-5-a.png)
 
 ## Prerequisites
 
@@ -39,9 +39,9 @@ Real projects in the business world require careful navigation between Branches,
 ## Step-By-Step Account Creation
 
 * **Creating a BitBucket Account**
- * [Step 1 - Create the Account](../manuscript/overview-&-development/creating-bitbucket-account/creating-bitbucket-account_step-1.md "Step 1 - Create the Account")
- * [Step 2 - Create an SSH Key Account](../manuscript/overview-&-development/creating-bitbucket-account/creating-bitbucket-account_step-2.md "Step 2 - Create an SSH Key Account")
- * [Step 3 - Add the SSH Key to BitBucket Account](../manuscript/overview-&-development/creating-bitbucket-account/creating-bitbucket-account_step-3.md "Step 3 - Add the SSH Key to BitBucket Account")
+ * [Step 1 - Create the Account](../manuscript/unit-1-preparing-your-development-environment/creating-bitbucket-account/creating-bitbucket-account_step-1.md "Step 1 - Create the Account")
+ * [Step 2 - Create an SSH Key Account](../manuscript/unit-1-preparing-your-development-environment/creating-bitbucket-account/creating-bitbucket-account_step-2.md "Step 2 - Create an SSH Key Account")
+ * [Step 3 - Add the SSH Key to BitBucket Account](../manuscript/unit-1-preparing-your-development-environment/creating-bitbucket-account/creating-bitbucket-account_step-3.md "Step 3 - Add the SSH Key to BitBucket Account")
 
  Congratulations!
 

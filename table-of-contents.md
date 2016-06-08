@@ -19,17 +19,17 @@
     * [Section 1.3: Early Development](manuscript/early-development.md)
     * [Section 1.4: Joining *Drupal.org*](manuscript/joining-drupal-org.md)
     * [Section 1.5: Creating a BitBucket Account](manuscript/creating-bitbucket-account.md)
-        * [Section 1.5.1: Step One - Create the Account](manuscript/overview-&-development/creating-bitbucket-account/creating-bitbucket-account_step-1.md "Step One - Create the Account")
-        * [Section 1.5.2: Step Two - Create an SSH Key Account](manuscript/overview-&-development/creating-bitbucket-account/creating-bitbucket-account_step-2.md "Step Two - Create an SSH Key Account")
-        * [Section 1.5.3: Step Three - Add the SSH Key to BitBucket Account](manuscript/overview-&-development/creating-bitbucket-account/creating-bitbucket-account_step-3.md "Step Three - Add the SSH Key to BitBucket Account")
+        * [Section 1.5.1: Step One - Create the Account](manuscript/unit-1-preparing-your-development-environment/creating-bitbucket-account/creating-bitbucket-account_step-1.md "Step One - Create the Account")
+        * [Section 1.5.2: Step Two - Create an SSH Key Account](manuscript/unit-1-preparing-your-development-environment/creating-bitbucket-account/creating-bitbucket-account_step-2.md "Step Two - Create an SSH Key Account")
+        * [Section 1.5.3: Step Three - Add the SSH Key to BitBucket Account](manuscript/unit-1-preparing-your-development-environment/creating-bitbucket-account/creating-bitbucket-account_step-3.md "Step Three - Add the SSH Key to BitBucket Account")
     * [Section 1.6: Creating a _Pantheon.io_ Account](manuscript/creating-pantheonio-account.md)
     * [Section 1.7: Drupal - An Introduction](manuscript/drupal-an-introduction.md "Drupal - An Introduction")    
     * [Section 1.8: The Workflow](manuscript/the-workflow.md)
     * [Section 1.9: Challenge! : Creating Your First Site](manuscript/creating-a-site.md "Section 1.9: Challenge! : Creating Your First Site")
-        * [Section 1.9.1: Step 1 - Creating A Site](manuscript/creating-a-site/creating-a-site_1.md "Step 1 - Creating A Site")
-        * [Section 1.9.2: Step 2 - Installing A Site](manuscript/creating-a-site/creating-a-site_1.md "Step 2 - Installing A Site")
-        * [Section 1.9.3: Step 3 - Visit Your New Site](manuscript/creating-a-site/creating-a-site_1.md "Step 3 - Visit Your New Site")
-    * [Section 1.10: Challenge! : Installing Modules](manuscript/installing-modules.md "Section 1.7: Challenge! : Installing Modules")    
+        * [Section 1.9.1: Step 1 - Creating A Site](manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 1 - Creating A Site")
+        * [Section 1.9.2: Step 2 - Installing A Site](manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 2 - Installing A Site")
+        * [Section 1.9.3: Step 3 - Visit Your New Site](manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 3 - Visit Your New Site")
+    * [Section 1.10: Challenge! : Installing Modules](manuscript/installing-modules.md "Section 1.7: Challenge! : Installing Modules")
         * Section 1.10.1: Step 1 - Download CTools
         * Section 1.10.1: Step 2 - Install CTools
         * Section 1.10.1: Step 3 - Configure CTools
@@ -51,16 +51,18 @@
 * [Unit Five: Modules](manuscript/unit-5-modules.md "Unit Five: Modules")
     * [Unit Five: Summary](manuscript/summary-unit-5.md "Unit Five: Summary")
 * [Unit Six: Troubleshooting](manuscript/unit-6-troubleshooting.md "Unit Six: Troubleshooting")
+    * Section 6.1: Security Considerations
+    * Section 6.2: Drupal Caching Tools
+    * Section 6.3: WSOD - The "White Screen of Death" Errors
     * [Unit Six: Summary](manuscript/summary-unit-6.md "Unit Six: Summary")
 * [Unit Seven: The Future](manuscript/unit-7-the-future.md "Unit Seven: The Future")
     * [Unit Seven: Summary](manuscript/summary-unit-7.md "Unit Seven: Summary")
-
 * [Appendix](appendix/appendix.md)
     * [Section 1.1 Git Cheat Sheet](appendix/git-cheat-sheet.md)
     * [Section 1.2 Creating a GitHub Account](manuscript/creating-github-account.md)
-        * [Section 1.1.1 Step One - Create the Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-1.md "Step One - Create the Account")
-        * [Section 1.1.2 Step Two - Create an SSH Key Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-2.md "Step Two - Create an SSH Key Account")
-        * [Section 1.1.3 Step Three - Add the SSH Key to GitHub Account](manuscript/overview-&-development/creating-github-account/creating-github-account_step-3.md "Step Three - Add the SSH Key to GitHub Account")
+        * [Section 1.1.1 Step One - Create the Account](appendix/creating-github-account/creating-github-account_step-1.md "Step One - Create the Account")
+        * [Section 1.1.2 Step Two - Create an SSH Key Account](appendix/creating-github-account/creating-github-account_step-2.md "Step Two - Create an SSH Key Account")
+        * [Section 1.1.3 Step Three - Add the SSH Key to GitHub Account](appendix/creating-github-account/creating-github-account_step-3.md "Step Three - Add the SSH Key to GitHub Account")
     * [Section 1.3 Installing Acquia Dev-Desktop](appendix/installing-acquia-dev-desktop.md)
         * [Section 1.3.1 Step 1 - Downloading and Installing the Acquia Dev-Desktop](appendix/installing-acquia-dev-desktop/installing-acquia-dev-desktop_step-1.md)
 * [Extensions Used](extensions-used.md)

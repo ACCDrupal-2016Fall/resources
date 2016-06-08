@@ -9,6 +9,7 @@ During this course, Students will actually create their **own** extentions (both
 > **Best Practices** - Instructions are included here for installing/updating modules via the Administrative Interface. These actually are often much simpler and faster using tools like *Drush*, which is what we will be using in-class.
 
 ### To **Install** an extension using the Graphic User Interface (GUI) method
+See [Section 1.10: Challenge! : Installing Modules](manuscript/installing-modules.md "Section 1.7: Challenge! : Installing Modules") for step-by-step instructions.
 
 ##### Find the FTP/URL link for the desired Module
 ##### Navigate to the **Modules** (*https://mysite.com/admin/modules*) link

@@ -1,6 +1,6 @@
 # Installing the Acquia Dev-Desktop
 
-![Dev-Desktop Drop](../../images/overview-&-development/acquia/acquiadrupal_icon.png)
+![Dev-Desktop Drop](../../images/unit-1-preparing-your-development-environment/acquia/acquiadrupal_icon.png)
 
 ## Step 2 - Exploring Acquia Dev-Desktop
 
@@ -12,4 +12,4 @@
 ### Done!
 
 
-![Congratulations](../../images/overview-&-development/acquia/acquia-install-dev-desktop_6.JPG)
+![Congratulations](../../images/unit-1-preparing-your-development-environment/acquia/acquia-install-dev-desktop_6.JPG)

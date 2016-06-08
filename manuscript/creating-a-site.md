@@ -13,9 +13,9 @@ For **this** course, your first site will be created dynamically by Pantheon.io'
 
 ## Step-by-Step Site Creation
 * **Creating Your First Site**
-    * [Step 1 - Creating A Site](../manuscript/creating-a-site/creating-a-site_1.md "Step 1 - Creating A Site")
-    * [Step 2 - Installing A Site](../manuscript/creating-a-site/creating-a-site_1.md "Step 2 - Installing A Site")
-    * [Step 2 - Visit Your New Site](../manuscript/creating-a-site/creating-a-site_1.md "Step 3 - Visit Your New Site")
+    * [Step 1 - Creating A Site](../manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 1 - Creating A Site")
+    * [Step 2 - Installing A Site](../manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 2 - Installing A Site")
+    * [Step 2 - Visit Your New Site](../manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 3 - Visit Your New Site")
 
 > **Note** - For the rest of this course, "*your*" site will be referred to as "*https://mysite.pantheon.io*".
 

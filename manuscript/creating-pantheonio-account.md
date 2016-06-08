@@ -1,5 +1,5 @@
 # Creating a [Pantheon.io](https://pantheon.io "Pantheon.io") Account
-![Pantheon Zeus](../images/overview-&-development/pantheon/pantheon-logo-copy.JPG)
+![Pantheon Zeus](../images/unit-1-preparing-your-development-environment/pantheon/pantheon-logo-copy.JPG)
 
 ## Prerequisites
 
@@ -20,25 +20,25 @@
 ![Modern Browsers](../images/general/modern-browsers.JPG)
 
 #### Navigate to [Pantheon.io](https://pantheon.io "Pantheon.io")
-![Navigate to Pantheon.io](../images/overview-&-development/pantheon/pantheon-create-account_1.JPG)
+![Navigate to Pantheon.io](../images/unit-1-preparing-your-development-environment/pantheon/pantheon-create-account_1.JPG)
 
 #### Click the yellow *CREATE FREE ACCOUNT* button at the top-right of the screen.
-![Create Free Account](../images/overview-&-development/pantheon/pantheon-create-account_2.JPG)
+![Create Free Account](../images/unit-1-preparing-your-development-environment/pantheon/pantheon-create-account_2.JPG)
 
 #### Click Connect with Google
-![Create Free Account](../images/overview-&-development/pantheon/pantheon-create-account_4a.JPG)
+![Create Free Account](../images/unit-1-preparing-your-development-environment/pantheon/pantheon-create-account_4a.JPG)
 > For those Students with Google accounts, it is often best to simply click the *Connect with Google* button.
 
 ##### Allow Pantheon to Connect with Google
-![Connect with Google](../images/overview-&-development/pantheon/pantheon-create-account_5.JPG)
+![Connect with Google](../images/unit-1-preparing-your-development-environment/pantheon/pantheon-create-account_5.JPG)
 
 
 ##### Create your free account (Without Google)
-![Create Free Account](../images/overview-&-development/pantheon/pantheon-create-account_4b.JPG)
+![Create Free Account](../images/unit-1-preparing-your-development-environment/pantheon/pantheon-create-account_4b.JPG)
 > For those Students without Google accounts, standard account creation is still acceptable.
 
 #### Complete Account Creation
-![Complete Account Creation](../images/overview-&-development/pantheon/pantheon-create-account_6.JPG)
+![Complete Account Creation](../images/unit-1-preparing-your-development-environment/pantheon/pantheon-create-account_6.JPG)
 
 
 ## Beyond [Pantheon.io](https://pantheon.io "Pantheon.io")

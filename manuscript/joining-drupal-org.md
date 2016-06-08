@@ -17,30 +17,30 @@ An email address for account verification.
 ![Modern Browsers](../images/general/modern-browsers.JPG)
 
 #### Navigate to [Drupal.org](https://www.drupal.org "Drupal.org")
-![Drupal.org Home](../images/overview-&-development/join-drupal/join-drupal_1.JPG)
+![Drupal.org Home](../images/unit-1-preparing-your-development-environment/join-drupal/join-drupal_1.JPG)
 
 #### Click [Log in / Register](https://www.drupal.org/user "Log in / Register")
-![Log in / Register](../images/overview-&-development/join-drupal/join-drupal_2.JPG)
+![Log in / Register](../images/unit-1-preparing-your-development-environment/join-drupal/join-drupal_2.JPG)
 
 #### Click [Create new account](Create new account "Create new account")
-![Create a new account](../images/overview-&-development/join-drupal/join-drupal_3.JPG)
+![Create a new account](../images/unit-1-preparing-your-development-environment/join-drupal/join-drupal_3.JPG)
 
 #### Register for a New Account
-![Create a new account](../images/overview-&-development/join-drupal/join-drupal_4.JPG)
+![Create a new account](../images/unit-1-preparing-your-development-environment/join-drupal/join-drupal_4.JPG)
 > Be sure to read the [Terms of Service](https://register.drupal.org/terms "Terms of Service") and [Privacy Policy](https://register.drupal.org/privacy "Privacy Policy") before creating your account.
 
 #### Complete your Registration
-![Finish Registration](../images/overview-&-development/join-drupal/join-drupal_5.JPG)
+![Finish Registration](../images/unit-1-preparing-your-development-environment/join-drupal/join-drupal_5.JPG)
 > The information provided here need not be your real first and last name, but it is encouraged.
 
 > Be aware, everything you enter on this screen will be publically available information.
 
 #### Check Your Email!!
-![Verify Your Email](../images/overview-&-development/join-drupal/join-drupal_6.JPG)
+![Verify Your Email](../images/unit-1-preparing-your-development-environment/join-drupal/join-drupal_6.JPG)
 > Your Account will not officially be created until you verify your email address.
 
 #### Congratulations!!
-![Congratulations](../images/overview-&-development/join-drupal/join-drupal_7.JPG)
+![Congratulations](../images/unit-1-preparing-your-development-environment/join-drupal/join-drupal_7.JPG)
 
 ## Beyond Drupal.org
 
