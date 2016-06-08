@@ -42,8 +42,22 @@
         * Section 2.3.2: Nodes
         * Section 2.3.3: Blocks
         * Section 2.3.4: Menus
-        * Section 2.3.5: Other basic Drupal Core Tools
-    * Section 2.4: Challenge! : Configuring xxxxx ...?
+        * Section 2.3.5: Content Types
+        * Section 2.3.6: Taxonomy    
+    * Section 2.4: Drupal Under the Hood
+    * Section 2.5: Creating and Editing Users and Permissions    
+    * Section 2.5.1: Challenge! : Add a User
+    * Section 2.6: Content Types
+        * Section 2.6.1: Field Types
+        * Section 2.6.2: Widgets
+        * Section 2.6.3: Plan Your Content Type -> Job Posting
+        * Section 2.6.4: Challenge! : Create a *Job Posting* Content Type & Add a Field
+          * Section 2.6.1: Step 1 -
+          * Section 2.6.2: Step 2 -
+          * Section 2.6.3: Step 3 -
+    * Section 2.7: Blocks
+    * Section 2.8: Menus
+    * Section 2.9: Taxonomy    
     * [Unit Two: Summary](manuscript/summary-unit-2.md "Unit Two: Summary")
 * [Unit Three: Drupal Layout & Themes](manuscript/unit-3-layout-themes.md "Unit Three: Drupal Layout & Themes")
     * Section 3.1: Design Systems - Pattern Labs & 'Mini Bootstraps'
@@ -72,6 +86,11 @@
     * Section 6.3: WSOD - The "White Screen of Death" Errors
     * [Unit Six: Summary](manuscript/summary-unit-6.md "Unit Six: Summary")
 * [Unit Seven: The Future](manuscript/unit-7-the-future.md "Unit Seven: The Future")
+    * Section 7.X: Final Project
+        * View with Relationships
+        * View with Contextual Links
+        * Add Instructor as a User
+        * Add a Content Type with Custom Fields
     * [Unit Seven: Summary](manuscript/summary-unit-7.md "Unit Seven: Summary")
 * [Appendix](appendix/appendix.md)
     * [Section 1.1 Git Cheat Sheet](appendix/git-cheat-sheet.md)
