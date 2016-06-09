@@ -46,7 +46,7 @@ This useful package locally stores *your* SSH information so that you do not hav
 
 ##### Turn on the ```ssh-agent```
 **Only on Git for Windows**
-* Enter this command: ``` $eval "$(ssh-agent -s)" ```
+* Enter this command: ``` ssh-agent -s ```
 
 ![Activate the SSH Agent](../../../images/unit-1-preparing-your-development-environment/bitbucket/bitbucket-add-ssh-agent_2.JPG)
 > **Note** - On Git Bash, the SSH-Agent is already activated, but you can check your PID using the following command:
