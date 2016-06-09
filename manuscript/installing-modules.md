@@ -36,5 +36,16 @@ For this course, we will review both installation via the GUI and installation v
 ### Installing Themes
 See Unit Three - Section III: The Drupal Theme Engine (unwritten)
 
+## Step-by-Step Module Installation
+### GUI Module Installation
+    * [Section 1.10.1: GUI : Step 1 - Download CTools](../manuscript/unit-1-preparing-your-development-environment/module-installation/module-installation_1.md "Section 1.10.1: GUI : Step 1 - Download CTools")
+    * [Section 1.10.1: GUI : Step 2 - Install CTools](../manuscript/unit-1-preparing-your-development-environment/module-installation/module-installation_2.md "Section 1.10.1: GUI : Step 2 - Install CTools")
+    * [Section 1.10.1: GUI : Step 3 - Configure CTools](../manuscript/unit-1-preparing-your-development-environment/module-installation/module-installation_3.md "Section 1.10.1: GUI : Step 3 - Configure CTools")
+
+### Drush Module Installation
+* [Section 1.11.1: Drush : Step 1 - Download CTools](../manuscript/unit-1-preparing-your-development-environment/module-installation/module-installation_4.md "Section 1.11.1: Drush : Step 1 - Download CTools")
+* [Section 1.11.1: Drush : Step 2 - Install CTools](../manuscript/unit-1-preparing-your-development-environment/module-installation/module-installation_5.md "Section 1.11.1: Drush : Step 2 - Install CTools")
+* [Section 1.11.1: Drush : Step 3 - Configure CTools](../manuscript/unit-1-preparing-your-development-environment/module-installation/module-installation_6.md "Section 1.11.1: Drush : Step 3 - Configure CTools")
+
 
 ## Further Reading
