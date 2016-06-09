@@ -30,9 +30,9 @@
         * [Section 1.9.2: Step 2 - Installing A Site](manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 2 - Installing A Site")
         * [Section 1.9.3: Step 3 - Visit Your New Site](manuscript/unit-1-preparing-your-development-environment/creating-a-site/creating-a-site_1.md "Step 3 - Visit Your New Site")
     * [Section 1.10: Challenge! : Installing Modules](manuscript/installing-modules.md "Section 1.7: Challenge! : Installing Modules")
-        * Section 1.10.1: Step 1 - Download CTools
-        * Section 1.10.1: Step 2 - Install CTools
-        * Section 1.10.1: Step 3 - Configure CTools
+        * [Section 1.10.1: Step 1 - Download CTools](manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-1.md "Section 1.10.1: Step 1 - Download CTools")
+        * [Section 1.10.1: Step 2 - Install CTools](manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-2.md "Section 1.10.1: Step 2 - Install CTools")
+        * [Section 1.10.1: Step 3 - Configure CTools](manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-3.md "Section 1.10.1: Step 3 - Configure CTools")
     * [Unit One: Summary](manuscript/summary-unit-1.md "Unit One: Summary")
 * [Unit Two: Drupal Site Building](manuscript/unit-2-site-building.md "Unit Two: Drupal Site Building")
     * [Section 2.1: *Static* vs. *Dynamic* - Why Use A CMS?](manuscript/why-use-a-cms.md "Why Use A CMS?")
