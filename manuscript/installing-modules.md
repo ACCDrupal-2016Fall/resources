@@ -38,9 +38,9 @@ See Unit Three - Section III: The Drupal Theme Engine (unwritten)
 
 ## Step-by-Step Module Installation
 ### GUI Module Installation
-* [Section 1.10.1: GUI : Step 1 - Download CTools](unit-1-preparing-your-development-environment/module-installation/installing-modules_step-1.md "Section 1.10.1: GUI : Step 1 - Download CTools")
-* [Section 1.10.1: GUI : Step 2 - Install CTools](unit-1-preparing-your-development-environment/module-installation/installing-modules_step-2.md "Section 1.10.1: GUI : Step 2 - Install CTools")
-* [Section 1.10.1: GUI : Step 3 - Configure CTools](unit-1-preparing-your-development-environment/module-installation/installing-modules_step-3.md "Sect3on 1.10.1: GUI : Step 3 - Configure CTools")
+* [Section 1.10.1: GUI : Step 1 - Download CTools](manuscript/unit-1-preparing-your-development-environment/module-installation/installing-modules_step-1.md "Section 1.10.1: GUI : Step 1 - Download CTools")
+* [Section 1.10.1: GUI : Step 2 - Install CTools](../manuscript/unit-1-preparing-your-development-environment/module-installation/installing-modules_step-2.md "Section 1.10.1: GUI : Step 2 - Install CTools")
+* [Section 1.10.1: GUI : Step 3 - Configure CTools](../../manuscript/unit-1-preparing-your-development-environment/module-installation/installing-modules_step-3.md "Sect3on 1.10.1: GUI : Step 3 - Configure CTools")
 
 ### Drush Module Installation
 * [Section 1.11.1: Drush : Step 1 - Download CTools](../../../manuscript/unit-1-preparing-your-development-environment/module-installation/installing-modules_step-4.md "Section 1.11.1: Drush : Step 1 - Download CTools")
