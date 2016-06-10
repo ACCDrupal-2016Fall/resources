@@ -25,6 +25,13 @@
 
 > **Note** - Not adding ```--global``` to the command will mean the Author information is only applied locally. This is useful if you are using someone else's login to make changes, though rarely recommended.
 
+### Create a Usable SSH Key
+| Task  | Command   |
+| :--- | :--- |
+| Create SSH Key  | ```ssh-keygen -t rsa -b 4096 -C "your_email@example.com"``` |
+| Turn on SSH Agent  | ```ssh-agent -s```  |
+| Add Key SSH Agent  | ```ssh-add ~/.ssh/id_rsa```  |
+
 
 ### Create a New, Local Repository
 | Task  | Command   |
