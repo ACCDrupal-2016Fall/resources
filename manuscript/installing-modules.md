@@ -38,9 +38,9 @@ See Unit Three - Section III: The Drupal Theme Engine (unwritten)
 
 ## Step-by-Step Module Installation
 ### GUI Module Installation
-* [Step 1 - Download CTools](../manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_1.md "Section 1.10.1: GUI : Step 1 - Download CTools")
-* [Step 2 - Install CTools](../manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-2.md "Section 1.10.1: GUI : Step 2 - Install CTools")
-* [Step 3 - Configure CTools](../manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-3.md "Sect3on 1.10.1: GUI : Step 3 - Configure CTools
+* [GUI : Step 1 - Download CTools](../manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-1.md "Section 1.10.1: GUI : Step 1 - Download CTools")
+* [GUI : Step 2 - Install CTools](../manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-2.md "Section 1.10.1: GUI : Step 2 - Install CTools")
+* [GUI : Step 3 - Configure CTools](../manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-3.md "Section 1.10.1: GUI : Step 3 - Configure CTools")
 
 ### Pantheon.io Module Installation
 * [Pantheon.io : Step 1 - Download CTools](../manuscript/unit-1-preparing-your-development-environment/installing-modules/installing-modules_step-4.md "Pantheon.io : Step 1 - Download CTools")

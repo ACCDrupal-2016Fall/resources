@@ -45,6 +45,30 @@ Before you do anything, it is always best to clear your caches!
 #### Congratulations!
 ![Congratulations!](../../../images/unit-1-preparing-your-development-environment/installing-modules/install-modules_13.PNG)
 
+Congrats! You have successfully **installed** a module.
+
+Next, however, you need to **enable** the module.
+
+#### Navigate to https://mysite.pantheon.io/admin/config/development/performance (*admin/config/development/performance*) and Clear Caches
+Before you do anything else, it is always best to clear your caches!
+
+> **Troubleshooting** - This is the most likely step where you might run into errors / issues when installing and enabling new extensions (modules *or* themes). If you receive the dreaded **WSOD** (*W* hite *S* creen *o* f *D* eath), simply delete the installed modules within your *sites/../modules/contrib/* folder. Once you clear the caches again, the error caused by the bad code should be removed.
+
+#### Navigate to https://mysite.pantheon.io/admin/modules
+![admin/modules](../../../images/unit-1-preparing-your-development-environment/installing-modules/install-modules_10.PNG)
+
+#### Search for CTools and Enable
+CTools, as a very expansive contrib module, actually includes a number of useful modules all packaged in.  
+
+For now, only enable 'Chaos Tools' and Click *Save Configuration*.
+
+> **Troubleshooting** - This is the second most common place where errors occur when installing and enabling extensions.
 
 ## Power User Challenge!
-#### Add CTools to Git!
+#### Add CTools to Pantheon's Git Repository!
+
+The module has been added to the site and we've tested to make sure it works, but has it been saved to the file repository / backups?  **No!**
+
+Remember, the Git Repository with your Drupal installation is **completely** separate from the Server where your Drupal installation is hosted. Because we bypassed the normal workflow used for Git installation (add it to Git, then use ```git pull``` to retrieve the changes on the Server), we still need to add your changes into your Git Repository.
+
+For this course, there are two distinct Git Repositories used: **Pantheon.io** and **BitBucket.org**.
