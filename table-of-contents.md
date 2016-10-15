@@ -1,5 +1,12 @@
 # Table of Contents
 
+## New Curriculum
+
+* [Introduction](README.md)
+* [Foreword](manuscript/foreword-and-intro/ACC Modern Drupal 7 Web Authoring - Intro & Foreword.md)
+* [Unit One: Preparing Your Development Environment](manuscript/unit-one/ACC Modern Drupal 7 Web Authoring - Unit One")
+
+
 ## Curriculum
 
 * [Introduction](README.md)
