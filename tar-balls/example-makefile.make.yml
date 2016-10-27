@@ -101,13 +101,15 @@ projects:
     # to a git repository such as GitHub of BitBucket. If you have custom Code,
     # whether modules, themes, libraries, or simple configurations, that Code
     # should be managed through Version Control.
+    # If on Unix Shell:
+    # url: "file://~/sites/tarballs/firstmodule.tar"
   firstmodule:
     type: module
     subdir: custom
     version: ~
     download:
       type: file
-      url: "file:///c/Users/Charles/dev_solo/tarballs/firstmodule.tar"
+      url: "file:///c/Users/username/sites/tarballs/firstmodule.tar"
   # Themes
   adaptivetheme:
     type: theme
